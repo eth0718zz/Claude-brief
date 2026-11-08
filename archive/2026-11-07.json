@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-07",
+  "weekday": "周六",
+  "updated": "2026-11-07 14:45 伦敦时间",
+  "headline": "英国央行三年来首次加息；AI 股回调、IPO 估值降温；英国入门岗位越来越要求会用 AI。",
+  "items": [
+    {
+      "tag": "经济",
+      "title": "英国央行加息至 4%，2023 年 8 月以来首次",
+      "summary": "MPC 以 8:1 加息 25bp，Mann 主张加 50bp。理由是中东冲突推高能源价格，预计通胀 2027 年中升至约 5%。下次决议 12 月 17 日。",
+      "why": "金融/经济岗面试高频话题：能源冲击→通胀预期→利率路径，能讲清楚就是加分项。",
+      "source": "Bank of England",
+      "url": "https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate"
+    },
+    {
+      "tag": "金融",
+      "title": "AI 股回调，Anthropic IPO 估值或降至约 1 万亿美元",
+      "summary": "投资者开始质疑 AI 基建热潮能否持续，美国中期选举后多地收紧数据中心限制。有报道称 Anthropic 上市可能推迟，OpenAI 考虑 2027 年上市。",
+      "why": "ECM、股票研究、VC/PE 都在重新给 AI 资产定价，这是理解 2027 年资本市场的主线。",
+      "source": "The Neuron / Distill Intelligence",
+      "url": "https://www.distillintelligence.com/briefings/ai-leaders-2026-11-06"
+    },
+    {
+      "tag": "就业",
+      "title": "英国入门岗位招聘广告里提到 AI 的数量接近翻三倍",
+      "summary": "Adzuna 数据显示，提到 AI 的入门岗广告接近 2025 年初的 3 倍，但入门岗总量比 2025 年少了约四分之一。Indeed 发现银行、法律、软件领域每 6 个入门岗就有 1 个提到 AI。",
+      "why": "多数岗位只要求基础 AI 使用能力。简历里写一个具体的 AI 应用案例，比单写“熟悉 AI”更有说服力。",
+      "source": "Bloomberg via Resultsense",
+      "url": "https://www.resultsense.com/news/2026-11-05-uk-entry-level-jobs-ai-skills-adzuna-indeed/"
+    },
+    {
+      "tag": "就业",
+      "title": "英国出现“AI associate”毕业生岗",
+      "summary": "BBC 报道部分英国雇主设立了专门管理 AI agent 的毕业生岗位。PwC 数据显示，美国要求更高的入门岗自 2019 年增长 35%，其他入门岗减少 10%。",
+      "why": "你的“金融 + 管理 + 健康 + 数据”组合，正适合“懂业务又能调度 AI”的新型岗位。",
+      "source": "BBC via Resultsense",
+      "url": "https://www.resultsense.com/news/2026-11-04-graduates-ai-roles-trade-skills-bbc/"
+    },
+    {
+      "tag": "就业",
+      "title": "调查：26% 的经理在减少招聘新人",
+      "summary": "东北大学 AI & Society 调查显示，26% 的招聘经理在减少入门岗招聘，只有 7% 在增加；28% 期望新人直接承担更高阶的工作。",
+      "why": "入门岗的门槛在上移，求职材料里要突出能独立交付的成果（项目、分析报告、模型）。",
+      "source": "Northeastern University",
+      "url": "https://news.northeastern.edu/2026/11/02/ai-hiring-entry-level-jobs/"
+    },
+    {
+      "tag": "全球健康",
+      "title": "Google.org 资助尼日利亚 AI 孕产妇健康项目",
+      "summary": "Helium Health 是 3000 万美元“AI for Government Innovation”计划的 15 家获资助机构之一，将用 AI 做孕期风险早筛和临床决策支持，目标三年覆盖额外 190 万名女性。",
+      "why": "“AI + 公共卫生 + 政府合作”是全球健康管理的新兴就业方向：项目管理、影响评估、数据分析都需要人。",
+      "source": "TechMoran",
+      "url": "https://techmoran.com/2026/11/06/helium-health-secures-google-org-funding-to-deploy-ai-in-nigerias-maternal-healthcare"
+    },
+    {
+      "tag": "全球健康",
+      "title": "全球健康资金跌至 2012 年以来最低",
+      "summary": "柏林世界卫生峰会上，各方警告疟疾、结核等药物研发伙伴关系的资金难以保障。IHME 初步估计，2025 年全球健康资金下降 12%。",
+      "why": "资金收紧的时候，懂卫生经济学、成本效益分析和创新融资的人更受欢迎，这正是你金融背景的优势。",
+      "source": "fundsforNGOs",
+      "url": "https://news.fundsforngos.org/2026/11/05/global-health-pdp-funding-cuts-berlin-world-health-summit-2026"
+    },
+    {
+      "tag": "AI",
+      "title": "METR：Anthropic 的 AI 研发速度约为此前两倍",
+      "summary": "独立评估机构 METR 的报告认为，AI 工具正在加速 Anthropic 内部的编码和实验分析，但大部分关键证据被删去未公开。同期美国司法部成立了“超级智能工作组”。",
+      "why": "AI 治理、合规和政策分析岗位正在扩张，也适合有国际商业和公共卫生背景的人。",
+      "source": "The Neuron",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-6-2026/"
+    }
+  ],
+  "action": "今日行动：用 Python 和一个公开数据集（比如 IHME 全球健康资金数据）做一个小分析，用 AI 辅助写代码，并在 README 里写清楚你怎么验证 AI 的输出。这能同时体现数据、健康和 AI 三种能力。",
+  "watch": [
+    { "date": "11/10–11", "event": "AIHealth2026 国际 AI 健康会议" },
+    { "date": "12/17", "event": "英国央行下一次利率决议" }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-08",
+  "weekday": "周日",
+  "updated": "2026-11-08 09:25 伦敦时间",
+  "headline": "英国央行：AI 目前主要是让企业少招人，而不是裁员；英国银行开始借 AI 削减岗位；全球健康领域迎来新的人事变动。",
+  "items": [
+    {
+      "tag": "就业",
+      "title": "英国央行：AI 让企业少招人，而不是裁员",
+      "summary": "英国央行 11 月货币政策报告显示，企业估计 AI 三年来只把生产率提高了约 0.5%，对整体就业的影响接近于零。但企业预计，未来 AI 带来的效率提升有一半会体现在招聘放缓上。",
+      "why": "“少招人”最先冲击的就是应届岗位。面试时能引用央行这份报告来谈 AI 与劳动力市场，会很加分。",
+      "source": "Bank of England via Resultsense",
+      "url": "https://www.resultsense.com/news/2026-11-06-boe-ai-slowing-hiring-not-firing/"
+    },
+    {
+      "tag": "金融",
+      "title": "巴克莱今年裁约 5000 人，NatWest 三季度裁约 1000 人",
+      "summary": "英国银行三季度财报季中，巴克莱确认年内削减约 5000 个岗位，NatWest 三季度裁员约 1000 人，管理层都提到 AI 正在改变岗位。City AM 认为，这标志着银行业的 AI 就业收缩已经开始。",
+      "why": "投银行时优先看数据、风控、AI 治理等在扩张的职能，传统中后台岗位正在收缩。",
+      "source": "City AM",
+      "url": "https://www.cityam.com/barclays-and-natwest-layoffs-signal-start-of-bankings-ai-job-squeeze/"
+    },
+    {
+      "tag": "金融",
+      "title": "AI 抛售波及伦敦，富时 100 周五跌 1%",
+      "summary": "11 月 6 日，富时 100 收跌 1.01%，报 10,673.94 点，盘中一度跌 2.35%。市场担心美国 AI 监管收紧、数据中心建设放缓，再加上央行加息和房地产走弱，压力叠加。",
+      "why": "把“AI 估值→利率→英国内需股”串成一条逻辑链，是市场类面试题的好素材。",
+      "source": "BBN Times",
+      "url": "https://www.bbntimes.com/companies/ftse-100-falls-to-10-673-94-as-the-ai-sell-off-hits-london-amid-a-bank-of-england-rate-hike-and-housing-slump"
+    },
+    {
+      "tag": "金融",
+      "title": "银行开始转卖 AI 数据中心贷款",
+      "summary": "随着 AI 基建融资规模扩大、政策审查变严，银行正把数据中心贷款转给私募信贷、资管和保险公司。ING 正在兜售约 5 亿美元这类贷款，债务市场也提示融资成本在上升。",
+      "why": "私募信贷和基础设施融资是 AI 热潮里少见的仍在扩张的金融岗位方向。",
+      "source": "Briefs Finance",
+      "url": "https://briefs.co/news/ing-shops-500-million-in-ai-data-center-loans-as-banks-trim"
+    },
+    {
+      "tag": "AI",
+      "title": "CEPR：英美企业 AI 支出快速集中",
+      "summary": "CEPR 一篇专栏分析了美联储和英国央行的企业调查，发现英美企业的 AI 支出在快速增长，美国企业 2026 年人均 AI 支出预计达到 2,043 美元。",
+      "why": "这类用调查数据研究 AI 经济影响的工作，正好对应你经济学和数据科学的背景，可以作为研究或分析岗的作品方向。",
+      "source": "CEPR via Rio Rundown",
+      "url": "https://riorundown.substack.com/p/ai-news-nov-07-2026-ai-governance"
+    },
+    {
+      "tag": "全球健康",
+      "title": "全球基金任命 Mark Dybul 为负责人；柳叶刀发布气候与健康报告",
+      "summary": "《柳叶刀》11 月 7 日这一期报道了全球基金（Global Fund）任命 Mark Dybul 为负责人，同时发布了 2026 年“健康与气候变化倒计时”报告，指出过去十年气候带来的健康危害在持续加剧。",
+      "why": "全球基金换帅会影响未来几年的资金方向。关注它的新战略，对申请国际组织和 NGO 岗位很有用。",
+      "source": "The Lancet",
+      "url": "https://www.thelancet.com/journals/lancet/issue/current"
+    },
+    {
+      "tag": "全球健康",
+      "title": "美国全球健康援助思路转向，新国会或施压",
+      "summary": "NPR 报道，特朗普政府正在从根本上改变美国对外卫生援助的做法；中期选举后由民主党控制的国会会如何回应，成为下一个看点。",
+      "why": "美国援助的变化直接影响 NGO 和项目实施方的招聘，投相关岗位前要先了解对方的资金来源。",
+      "source": "NPR",
+      "url": "https://www.npr.org/sections/health/"
+    }
+  ],
+  "action": "今日行动：读英国央行 11 月货币政策报告里讲 AI 与就业的那一节，用 200 字写下你的看法（AI 为什么先减少招聘、而不是先裁员），存起来当面试素材。",
+  "watch": [
+    { "date": "11/10–11", "event": "AIHealth2026 国际 AI 健康会议" },
+    { "date": "12/17", "event": "英国央行下一次利率决议" }
+  ]
+}
