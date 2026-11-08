@@ -1,8 +1,8 @@
 {
   "date": "2026-11-08",
   "weekday": "周日",
-  "updated": "2026-11-08 09:25 伦敦时间",
-  "headline": "英国央行：AI 目前主要是让企业少招人，而不是裁员；英国银行开始借 AI 削减岗位；全球健康领域迎来新的人事变动。",
+  "updated": "2026-11-08 09:35 伦敦时间",
+  "headline": "英国央行：AI 主要让企业少招人；俄美乌下周二在阿布扎比会谈；本周美国 CPI 出炉，市场押注美联储 12 月再加息。",
   "items": [
     {
       "tag": "就业",
@@ -11,6 +11,22 @@
       "why": "“少招人”最先冲击的就是应届岗位。面试时能引用央行这份报告来谈 AI 与劳动力市场，会很加分。",
       "source": "Bank of England via Resultsense",
       "url": "https://www.resultsense.com/news/2026-11-06-boe-ai-slowing-hiring-not-firing/"
+    },
+    {
+      "tag": "国际",
+      "title": "俄美乌下周二在阿布扎比会谈，中美俄三方峰会在讨论中",
+      "summary": "普京确认，俄美乌新一轮谈判将于 11 月 10 日在阿布扎比开始，议题包括安全保障和降级措施。中方也确认，习近平、特朗普、普京三方会晤正在讨论中。美国中期选举失利后，特朗普任命 Stephen Miller 为白宫幕僚长，并表示要调整内阁。",
+      "why": "地缘局势直接影响能源价格，进而影响英国通胀和利率路径，可以和英国央行加息的逻辑串起来讲。",
+      "source": "Anadolu Agency",
+      "url": "https://aa.com.tr/en/world/morning-briefing-nov-7-2026/4114860"
+    },
+    {
+      "tag": "国际",
+      "title": "巴拉圭总统因银行倒闭风波被弹劾并软禁",
+      "summary": "巴拉圭国会弹劾总统 Santiago Peña，他随后被软禁。起因是 Ueno 银行暂停营业，引发抗议，民众要求当局给出解释。",
+      "why": "这是银行危机演变成政治危机的鲜活案例，适合在金融稳定、监管相关的面试里引用。",
+      "source": "NPR / Euronews",
+      "url": "https://www.npr.org/sections/news/"
     },
     {
       "tag": "金融",
@@ -35,6 +51,14 @@
       "why": "私募信贷和基础设施融资是 AI 热潮里少见的仍在扩张的金融岗位方向。",
       "source": "Briefs Finance",
       "url": "https://briefs.co/news/ing-shops-500-million-in-ai-data-center-loans-as-banks-trim"
+    },
+    {
+      "tag": "投资",
+      "title": "本周看点：美国 CPI/PPI，市场押注 12 月再加息 25bp",
+      "summary": "美国 10 月 CPI 和 PPI 本周公布，市场目前计入美联储 12 月再加息 25 个基点。上周四 AI 股大跌后，标普 500 回到 7 月低点附近。本周还有英国 GDP，以及 CoreWeave、思科、应用材料等公司的财报。",
+      "why": "这些只是市场信息，不构成投资建议。可以练习用 CPI 预期差来推演利率和科技股的反应，这是买方、卖方面试的常见题。",
+      "source": "Trading Economics / Equity Clock",
+      "url": "https://tradingeconomics.com/calendar?article=29378&g=top&importance=2&startdate=2026-11-06"
     },
     {
       "tag": "AI",
@@ -63,7 +87,21 @@
   ],
   "action": "今日行动：读英国央行 11 月货币政策报告里讲 AI 与就业的那一节，用 200 字写下你的看法（AI 为什么先减少招聘、而不是先裁员），存起来当面试素材。",
   "watch": [
-    { "date": "11/10–11", "event": "AIHealth2026 国际 AI 健康会议" },
-    { "date": "12/17", "event": "英国央行下一次利率决议" }
+    {
+      "date": "11/10",
+      "event": "俄美乌阿布扎比会谈开始"
+    },
+    {
+      "date": "11/9–13",
+      "event": "美国 10 月 CPI/PPI、英国 GDP 公布"
+    },
+    {
+      "date": "11/10–11",
+      "event": "AIHealth2026 国际 AI 健康会议"
+    },
+    {
+      "date": "12/17",
+      "event": "英国央行下一次利率决议"
+    }
   ]
 }
