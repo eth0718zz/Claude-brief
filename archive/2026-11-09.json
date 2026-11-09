@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-09",
+  "weekday": "周一",
+  "updated": "2026-11-09 07:50 伦敦时间",
+  "headline": "美国非农大超预期，周二 CPI 将定调美联储 12 月是否加息；油价单周跌逾一成，伊朗谈判成关键；COP31 今日开幕聚焦气候与健康。",
+  "items": [
+    {
+      "tag": "经济",
+      "title": "美国 10 月非农大超预期，加息押注升温",
+      "summary": "美国 10 月新增非农就业 16.5 万，远高于约 6.5 万的预期；失业率小降至 4.1%，工资环比涨 0.4%。数据公布后 10 年期美债收益率升至约 4.88%，CME 工具显示 12 月加息概率升至约七成以上。周二将公布 10 月 CPI，市场预期整体和核心环比均约 0.3%。",
+      "why": "“就业强→工资涨→通胀粘→加息”是宏观面试的标准链条，周二 CPI 出来后可以用实际数据验证一遍自己的推演。",
+      "source": "Charles Schwab",
+      "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+    },
+    {
+      "tag": "投资",
+      "title": "油价单周跌约 12%，为 4 月以来最大周跌",
+      "summary": "截至 11 月 6 日当周，WTI 原油下跌约 12%–13%，是 4 月中旬以来最大单周跌幅；周一早盘 WTI 约 89.6 美元、布伦特约 96.4 美元，布伦特近一个月累计跌近 10%。主要原因是市场憧憬伊朗核谈判和霍尔木兹海峡重新开放，但美方称伊朗条件“不可接受”，限制了跌幅。",
+      "why": "以上为市场事实，不构成投资建议。油价回落会降低英国通胀压力，可以拿来分析英国央行 12 月是否还需要继续加息。",
+      "source": "Trading Economics",
+      "url": "https://tradingeconomics.com/commodity/crude-oil"
+    },
+    {
+      "tag": "投资",
+      "title": "金价周涨约 1.2%，重回 4000 美元上方",
+      "summary": "现货黄金上周五收于约 4,069 美元/盎司，周涨约 1.2%，月跌约 1%。中期选举后美元和美债收益率走弱曾推高金价至约 4,147 美元，但强劲的非农数据让美元反弹，金价回落。世界黄金协会数据显示黄金 ETF 资金到 10 月底仍在流入。",
+      "why": "以上为市场事实，不构成投资建议。黄金同时受实际利率、美元和避险情绪影响，适合练习“多因素拆解价格变动”这类面试题。",
+      "source": "The Gold Investor (Substack)",
+      "url": "https://thegoldinvestor.substack.com/p/the-gold-weekly-2-november-7th-2026"
+    },
+    {
+      "tag": "国际",
+      "title": "特朗普：若伊朗谈判有进展，再度空袭可能性低",
+      "summary": "特朗普 11 月 8 日表示，若谈判取得进展，美国恢复对伊朗大规模打击的可能性很低，但未排除军事选项，并称近期只对格什姆岛进行了“小规模打击”。伊朗 11 月 5 日经卡塔尔提交新核方案，但仍要求美方满足解除制裁、结束海上封锁等七项条件。美军称 7 月以来已拦截改道 147 艘商船、摧毁 10 艘伊朗油轮。",
+      "why": "伊朗谈判直接牵动油价和全球通胀预期，面试谈宏观或大宗商品时，这是当前最重要的地缘变量。",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/live-news/iran-war-news-trump-saudi-houthi-november-8"
+    },
+    {
+      "tag": "全球健康",
+      "title": "COP31 今日开幕，首日为“健康日”",
+      "summary": "COP31 于 11 月 9 日开幕，首日由主席国和 WHO 共同举办健康日，健康馆活动持续到 11 月 20 日。WHO 发布“安塔利亚卫生韧性倡议”，并测算六项气候与健康优先行动每年可挽救约 160 万人，每投入 1 美元回报约 24 美元。WHO 呼吁把卫生明确纳入气候融资的资助范围。",
+      "why": "“每 1 美元回报 24 美元”是典型的卫生经济学论证，可以拿来练习投资回报和成本效益分析的讲法，用在全球健康类岗位的面试里。",
+      "source": "WHO",
+      "url": "https://www.who.int/news/item/06-11-2026-who-at-cop31--health-day-opens-two-weeks-of-activities-to-deliver-on-climate-change-and-health"
+    },
+    {
+      "tag": "AI",
+      "title": "美国地方选民 41 项中通过 40 项数据中心限制",
+      "summary": "中期选举中，10 个州的 41 项地方公投里有 40 项通过了对数据中心的限制。上周四纳斯达克 100 指数跌 6.4%，市值蒸发创纪录的约 2.3 万亿美元，费城半导体指数跌 12%，英伟达单日蒸发约 4,500 亿美元。主张暂停新建数据中心的候选人还赢得了得州州长选举。",
+      "why": "AI 的瓶颈正从技术转向电力、用水和地方政治。分析 AI 板块时，把“基建审批风险”列为一个独立变量，会显得更有深度。",
+      "source": "AI Weekly（援引 CNBC）",
+      "url": "https://aiweekly.co/alerts/nasdaq-100-loses-record-23t-as-chip-index-plunges-12-in-post-midterm-ai-rout"
+    },
+    {
+      "tag": "AI",
+      "title": "DeepSeek 智能体平台日活一个月翻三倍多",
+      "summary": "DeepSeek 首次公布 Harness 智能体平台数据：截至 11 月 4 日当周日活约 154 万，10 月初时约 43 万。平台每天消耗约 92 万亿 token，第三方插件约 3.5 万个，约六成用户创建或安装过插件。",
+      "why": "开源智能体的快速普及会压低 AI 使用成本，谈中美 AI 竞争或 AI 商业模式时，这是一个很好的数据点。",
+      "source": "Yicai Global",
+      "url": "https://www.yicaiglobal.com/news/deepseek-harness-releases-dau-data-for-first-time-topping-15-million"
+    },
+    {
+      "tag": "金融",
+      "title": "凯捷：近六成金融机构在试多智能体 AI，仅一成全面铺开",
+      "summary": "凯捷研究院对 14 个市场 1,100 名金融业高管的调查显示，59% 的机构在试点或部署多智能体 AI，但只有 10% 实现了全企业范围的统筹。约一半机构无法稳定证明智能体 AI 的投资回报，四分之三预计三年内 AI 智能体会成为客户服务的核心。",
+      "why": "“试点多、规模化少、ROI 难证明”正是咨询和银行转型团队的切入点，适合用作 case 面试的开场框架。",
+      "source": "Capgemini Research Institute（GlobeNewswire）",
+      "url": "https://www.globenewswire.com/news-release/2026/11/05/3396012/0/en/financial-institutions-accelerate-transition-to-multi-agent-ai-in-drive-for-bottom-line-value.html"
+    },
+    {
+      "tag": "就业",
+      "title": "英国入门岗招聘广告提及 AI 的比例近三倍",
+      "summary": "Adzuna 数据显示，英国提到 AI 的入门级招聘广告已接近 2025 年初的三倍，但同期初级岗位总量下降了四分之一。Indeed 指出，在银行、法律、软件等领域，约六分之一的入门岗提到 AI，比例是一年前的两倍；多数岗位只要求基础 AI 使用能力，新增需求只弥补了约三分之一流失的岗位。",
+      "why": "雇主要的多半是“会用 AI 办公”的基础能力，把具体工具和用例写进简历，比泛泛写“熟悉 AI”更有说服力。",
+      "source": "Resultsense（援引 Bloomberg）",
+      "url": "https://www.resultsense.com/news/2026-11-05-uk-entry-level-jobs-ai-skills-adzuna-indeed/"
+    }
+  ],
+  "action": "今日行动（约 1 小时）：用 Python 或 Excel 加 AI 工具，把美国 10 月非农和明天的 CPI 数据做成一张图，配三句话解读对美联储 12 月决议的影响，存成作品集里的一页，并在简历技能栏写清你用了哪些具体工具。",
+  "watch": [
+    {
+      "date": "11/10",
+      "event": "美国 10 月 CPI 公布（预期环比约 0.3%）"
+    },
+    {
+      "date": "11/10–11",
+      "event": "美俄乌三方在阿布扎比举行新一轮会谈"
+    },
+    {
+      "date": "11/12",
+      "event": "英国 9 月 GDP 及三季度 GDP 首次估计（伦敦时间 07:00）"
+    },
+    {
+      "date": "11/09–20",
+      "event": "COP31 气候大会，WHO 健康馆系列活动"
+    }
+  ]
+}

@@ -1,107 +1,99 @@
 {
-  "date": "2026-11-08",
-  "weekday": "周日",
-  "updated": "2026-11-08 09:35 伦敦时间",
-  "headline": "英国央行：AI 主要让企业少招人；俄美乌下周二在阿布扎比会谈；本周美国 CPI 出炉，市场押注美联储 12 月再加息。",
+  "date": "2026-11-09",
+  "weekday": "周一",
+  "updated": "2026-11-09 07:50 伦敦时间",
+  "headline": "美国非农大超预期，周二 CPI 将定调美联储 12 月是否加息；油价单周跌逾一成，伊朗谈判成关键；COP31 今日开幕聚焦气候与健康。",
   "items": [
     {
-      "tag": "就业",
-      "title": "英国央行：AI 让企业少招人，而不是裁员",
-      "summary": "英国央行 11 月货币政策报告显示，企业估计 AI 三年来只把生产率提高了约 0.5%，对整体就业的影响接近于零。但企业预计，未来 AI 带来的效率提升有一半会体现在招聘放缓上。",
-      "why": "“少招人”最先冲击的就是应届岗位。面试时能引用央行这份报告来谈 AI 与劳动力市场，会很加分。",
-      "source": "Bank of England via Resultsense",
-      "url": "https://www.resultsense.com/news/2026-11-06-boe-ai-slowing-hiring-not-firing/"
-    },
-    {
-      "tag": "国际",
-      "title": "俄美乌下周二在阿布扎比会谈，中美俄三方峰会在讨论中",
-      "summary": "普京确认，俄美乌新一轮谈判将于 11 月 10 日在阿布扎比开始，议题包括安全保障和降级措施。中方也确认，习近平、特朗普、普京三方会晤正在讨论中。美国中期选举失利后，特朗普任命 Stephen Miller 为白宫幕僚长，并表示要调整内阁。",
-      "why": "地缘局势直接影响能源价格，进而影响英国通胀和利率路径，可以和英国央行加息的逻辑串起来讲。",
-      "source": "Anadolu Agency",
-      "url": "https://aa.com.tr/en/world/morning-briefing-nov-7-2026/4114860"
-    },
-    {
-      "tag": "国际",
-      "title": "巴拉圭总统因银行倒闭风波被弹劾并软禁",
-      "summary": "巴拉圭国会弹劾总统 Santiago Peña，他随后被软禁。起因是 Ueno 银行暂停营业，引发抗议，民众要求当局给出解释。",
-      "why": "这是银行危机演变成政治危机的鲜活案例，适合在金融稳定、监管相关的面试里引用。",
-      "source": "NPR / Euronews",
-      "url": "https://www.npr.org/sections/news/"
-    },
-    {
-      "tag": "金融",
-      "title": "巴克莱今年裁约 5000 人，NatWest 三季度裁约 1000 人",
-      "summary": "英国银行三季度财报季中，巴克莱确认年内削减约 5000 个岗位，NatWest 三季度裁员约 1000 人，管理层都提到 AI 正在改变岗位。City AM 认为，这标志着银行业的 AI 就业收缩已经开始。",
-      "why": "投银行时优先看数据、风控、AI 治理等在扩张的职能，传统中后台岗位正在收缩。",
-      "source": "City AM",
-      "url": "https://www.cityam.com/barclays-and-natwest-layoffs-signal-start-of-bankings-ai-job-squeeze/"
-    },
-    {
-      "tag": "金融",
-      "title": "AI 抛售波及伦敦，富时 100 周五跌 1%",
-      "summary": "11 月 6 日，富时 100 收跌 1.01%，报 10,673.94 点，盘中一度跌 2.35%。市场担心美国 AI 监管收紧、数据中心建设放缓，再加上央行加息和房地产走弱，压力叠加。",
-      "why": "把“AI 估值→利率→英国内需股”串成一条逻辑链，是市场类面试题的好素材。",
-      "source": "BBN Times",
-      "url": "https://www.bbntimes.com/companies/ftse-100-falls-to-10-673-94-as-the-ai-sell-off-hits-london-amid-a-bank-of-england-rate-hike-and-housing-slump"
-    },
-    {
-      "tag": "金融",
-      "title": "银行开始转卖 AI 数据中心贷款",
-      "summary": "随着 AI 基建融资规模扩大、政策审查变严，银行正把数据中心贷款转给私募信贷、资管和保险公司。ING 正在兜售约 5 亿美元这类贷款，债务市场也提示融资成本在上升。",
-      "why": "私募信贷和基础设施融资是 AI 热潮里少见的仍在扩张的金融岗位方向。",
-      "source": "Briefs Finance",
-      "url": "https://briefs.co/news/ing-shops-500-million-in-ai-data-center-loans-as-banks-trim"
+      "tag": "经济",
+      "title": "美国 10 月非农大超预期，加息押注升温",
+      "summary": "美国 10 月新增非农就业 16.5 万，远高于约 6.5 万的预期；失业率小降至 4.1%，工资环比涨 0.4%。数据公布后 10 年期美债收益率升至约 4.88%，CME 工具显示 12 月加息概率升至约七成以上。周二将公布 10 月 CPI，市场预期整体和核心环比均约 0.3%。",
+      "why": "“就业强→工资涨→通胀粘→加息”是宏观面试的标准链条，周二 CPI 出来后可以用实际数据验证一遍自己的推演。",
+      "source": "Charles Schwab",
+      "url": "https://www.schwab.com/learn/story/stock-market-update-open"
     },
     {
       "tag": "投资",
-      "title": "本周看点：美国 CPI/PPI，市场押注 12 月再加息 25bp",
-      "summary": "美国 10 月 CPI 和 PPI 本周公布，市场目前计入美联储 12 月再加息 25 个基点。上周四 AI 股大跌后，标普 500 回到 7 月低点附近。本周还有英国 GDP，以及 CoreWeave、思科、应用材料等公司的财报。",
-      "why": "这些只是市场信息，不构成投资建议。可以练习用 CPI 预期差来推演利率和科技股的反应，这是买方、卖方面试的常见题。",
-      "source": "Trading Economics / Equity Clock",
-      "url": "https://tradingeconomics.com/calendar?article=29378&g=top&importance=2&startdate=2026-11-06"
+      "title": "油价单周跌约 12%，为 4 月以来最大周跌",
+      "summary": "截至 11 月 6 日当周，WTI 原油下跌约 12%–13%，是 4 月中旬以来最大单周跌幅；周一早盘 WTI 约 89.6 美元、布伦特约 96.4 美元，布伦特近一个月累计跌近 10%。主要原因是市场憧憬伊朗核谈判和霍尔木兹海峡重新开放，但美方称伊朗条件“不可接受”，限制了跌幅。",
+      "why": "以上为市场事实，不构成投资建议。油价回落会降低英国通胀压力，可以拿来分析英国央行 12 月是否还需要继续加息。",
+      "source": "Trading Economics",
+      "url": "https://tradingeconomics.com/commodity/crude-oil"
+    },
+    {
+      "tag": "投资",
+      "title": "金价周涨约 1.2%，重回 4000 美元上方",
+      "summary": "现货黄金上周五收于约 4,069 美元/盎司，周涨约 1.2%，月跌约 1%。中期选举后美元和美债收益率走弱曾推高金价至约 4,147 美元，但强劲的非农数据让美元反弹，金价回落。世界黄金协会数据显示黄金 ETF 资金到 10 月底仍在流入。",
+      "why": "以上为市场事实，不构成投资建议。黄金同时受实际利率、美元和避险情绪影响，适合练习“多因素拆解价格变动”这类面试题。",
+      "source": "The Gold Investor (Substack)",
+      "url": "https://thegoldinvestor.substack.com/p/the-gold-weekly-2-november-7th-2026"
+    },
+    {
+      "tag": "国际",
+      "title": "特朗普：若伊朗谈判有进展，再度空袭可能性低",
+      "summary": "特朗普 11 月 8 日表示，若谈判取得进展，美国恢复对伊朗大规模打击的可能性很低，但未排除军事选项，并称近期只对格什姆岛进行了“小规模打击”。伊朗 11 月 5 日经卡塔尔提交新核方案，但仍要求美方满足解除制裁、结束海上封锁等七项条件。美军称 7 月以来已拦截改道 147 艘商船、摧毁 10 艘伊朗油轮。",
+      "why": "伊朗谈判直接牵动油价和全球通胀预期，面试谈宏观或大宗商品时，这是当前最重要的地缘变量。",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/live-news/iran-war-news-trump-saudi-houthi-november-8"
+    },
+    {
+      "tag": "全球健康",
+      "title": "COP31 今日开幕，首日为“健康日”",
+      "summary": "COP31 于 11 月 9 日开幕，首日由主席国和 WHO 共同举办健康日，健康馆活动持续到 11 月 20 日。WHO 发布“安塔利亚卫生韧性倡议”，并测算六项气候与健康优先行动每年可挽救约 160 万人，每投入 1 美元回报约 24 美元。WHO 呼吁把卫生明确纳入气候融资的资助范围。",
+      "why": "“每 1 美元回报 24 美元”是典型的卫生经济学论证，可以拿来练习投资回报和成本效益分析的讲法，用在全球健康类岗位的面试里。",
+      "source": "WHO",
+      "url": "https://www.who.int/news/item/06-11-2026-who-at-cop31--health-day-opens-two-weeks-of-activities-to-deliver-on-climate-change-and-health"
     },
     {
       "tag": "AI",
-      "title": "CEPR：英美企业 AI 支出快速集中",
-      "summary": "CEPR 一篇专栏分析了美联储和英国央行的企业调查，发现英美企业的 AI 支出在快速增长，美国企业 2026 年人均 AI 支出预计达到 2,043 美元。",
-      "why": "这类用调查数据研究 AI 经济影响的工作，正好对应你经济学和数据科学的背景，可以作为研究或分析岗的作品方向。",
-      "source": "CEPR via Rio Rundown",
-      "url": "https://riorundown.substack.com/p/ai-news-nov-07-2026-ai-governance"
+      "title": "美国地方选民 41 项中通过 40 项数据中心限制",
+      "summary": "中期选举中，10 个州的 41 项地方公投里有 40 项通过了对数据中心的限制。上周四纳斯达克 100 指数跌 6.4%，市值蒸发创纪录的约 2.3 万亿美元，费城半导体指数跌 12%，英伟达单日蒸发约 4,500 亿美元。主张暂停新建数据中心的候选人还赢得了得州州长选举。",
+      "why": "AI 的瓶颈正从技术转向电力、用水和地方政治。分析 AI 板块时，把“基建审批风险”列为一个独立变量，会显得更有深度。",
+      "source": "AI Weekly（援引 CNBC）",
+      "url": "https://aiweekly.co/alerts/nasdaq-100-loses-record-23t-as-chip-index-plunges-12-in-post-midterm-ai-rout"
     },
     {
-      "tag": "全球健康",
-      "title": "全球基金任命 Mark Dybul 为负责人；柳叶刀发布气候与健康报告",
-      "summary": "《柳叶刀》11 月 7 日这一期报道了全球基金（Global Fund）任命 Mark Dybul 为负责人，同时发布了 2026 年“健康与气候变化倒计时”报告，指出过去十年气候带来的健康危害在持续加剧。",
-      "why": "全球基金换帅会影响未来几年的资金方向。关注它的新战略，对申请国际组织和 NGO 岗位很有用。",
-      "source": "The Lancet",
-      "url": "https://www.thelancet.com/journals/lancet/issue/current"
+      "tag": "AI",
+      "title": "DeepSeek 智能体平台日活一个月翻三倍多",
+      "summary": "DeepSeek 首次公布 Harness 智能体平台数据：截至 11 月 4 日当周日活约 154 万，10 月初时约 43 万。平台每天消耗约 92 万亿 token，第三方插件约 3.5 万个，约六成用户创建或安装过插件。",
+      "why": "开源智能体的快速普及会压低 AI 使用成本，谈中美 AI 竞争或 AI 商业模式时，这是一个很好的数据点。",
+      "source": "Yicai Global",
+      "url": "https://www.yicaiglobal.com/news/deepseek-harness-releases-dau-data-for-first-time-topping-15-million"
     },
     {
-      "tag": "全球健康",
-      "title": "美国全球健康援助思路转向，新国会或施压",
-      "summary": "NPR 报道，特朗普政府正在从根本上改变美国对外卫生援助的做法；中期选举后由民主党控制的国会会如何回应，成为下一个看点。",
-      "why": "美国援助的变化直接影响 NGO 和项目实施方的招聘，投相关岗位前要先了解对方的资金来源。",
-      "source": "NPR",
-      "url": "https://www.npr.org/sections/health/"
+      "tag": "金融",
+      "title": "凯捷：近六成金融机构在试多智能体 AI，仅一成全面铺开",
+      "summary": "凯捷研究院对 14 个市场 1,100 名金融业高管的调查显示，59% 的机构在试点或部署多智能体 AI，但只有 10% 实现了全企业范围的统筹。约一半机构无法稳定证明智能体 AI 的投资回报，四分之三预计三年内 AI 智能体会成为客户服务的核心。",
+      "why": "“试点多、规模化少、ROI 难证明”正是咨询和银行转型团队的切入点，适合用作 case 面试的开场框架。",
+      "source": "Capgemini Research Institute（GlobeNewswire）",
+      "url": "https://www.globenewswire.com/news-release/2026/11/05/3396012/0/en/financial-institutions-accelerate-transition-to-multi-agent-ai-in-drive-for-bottom-line-value.html"
+    },
+    {
+      "tag": "就业",
+      "title": "英国入门岗招聘广告提及 AI 的比例近三倍",
+      "summary": "Adzuna 数据显示，英国提到 AI 的入门级招聘广告已接近 2025 年初的三倍，但同期初级岗位总量下降了四分之一。Indeed 指出，在银行、法律、软件等领域，约六分之一的入门岗提到 AI，比例是一年前的两倍；多数岗位只要求基础 AI 使用能力，新增需求只弥补了约三分之一流失的岗位。",
+      "why": "雇主要的多半是“会用 AI 办公”的基础能力，把具体工具和用例写进简历，比泛泛写“熟悉 AI”更有说服力。",
+      "source": "Resultsense（援引 Bloomberg）",
+      "url": "https://www.resultsense.com/news/2026-11-05-uk-entry-level-jobs-ai-skills-adzuna-indeed/"
     }
   ],
-  "action": "今日行动：读英国央行 11 月货币政策报告里讲 AI 与就业的那一节，用 200 字写下你的看法（AI 为什么先减少招聘、而不是先裁员），存起来当面试素材。",
+  "action": "今日行动（约 1 小时）：用 Python 或 Excel 加 AI 工具，把美国 10 月非农和明天的 CPI 数据做成一张图，配三句话解读对美联储 12 月决议的影响，存成作品集里的一页，并在简历技能栏写清你用了哪些具体工具。",
   "watch": [
     {
       "date": "11/10",
-      "event": "俄美乌阿布扎比会谈开始"
-    },
-    {
-      "date": "11/9–13",
-      "event": "美国 10 月 CPI/PPI、英国 GDP 公布"
+      "event": "美国 10 月 CPI 公布（预期环比约 0.3%）"
     },
     {
       "date": "11/10–11",
-      "event": "AIHealth2026 国际 AI 健康会议"
+      "event": "美俄乌三方在阿布扎比举行新一轮会谈"
     },
     {
-      "date": "12/17",
-      "event": "英国央行下一次利率决议"
+      "date": "11/12",
+      "event": "英国 9 月 GDP 及三季度 GDP 首次估计（伦敦时间 07:00）"
+    },
+    {
+      "date": "11/09–20",
+      "event": "COP31 气候大会，WHO 健康馆系列活动"
     }
   ]
 }
