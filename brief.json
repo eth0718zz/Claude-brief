@@ -1,103 +1,103 @@
 {
-  "date": "2026-11-10",
-  "weekday": "周二",
-  "updated": "2026-11-10 08:00 伦敦时间",
-  "headline": "美股周一大反弹，今晚美国 CPI 定调美联储 12 月是否加息；英伟达董事会调查黄仁勋；美俄乌阿布扎比会谈今天开幕。",
+  "date": "2026-11-11",
+  "weekday": "周三",
+  "updated": "2026-11-11 07:50 伦敦时间",
+  "headline": "美国CPI超预期，10年期美债收益率升至5%；Anthropic定IPO区间，估值最高1.4万亿美元；俄乌阿布扎比和谈首日称“有建设性”。",
   "items": [
     {
-      "tag": "投资",
-      "title": "美股创 4 月以来最好单日，今晚看 CPI",
-      "summary": "11 月 9 日标普 500 涨 2.35%，创 4 月 8 日以来最大单日涨幅；纳指涨 2.74%，道指涨 2.15%，罗素 2000 涨约 3.2%，主要因上周 AI 抛售后芯片股反弹、油价跌约 3%。花旗同日把美股和全球科技股下调至中性、上调欧股。今晚（伦敦 13:30）公布美国 10 月 CPI，市场预期整体环比约 0.3%、核心约 0.2%；CME 工具显示 12 月加息概率约 84%。",
-      "why": "以上为市场事实，不构成投资建议。今晚 CPI 出来后，可以对照“预期 vs 实际”看美债收益率和美股如何反应，这是面试里讲“市场如何定价数据”的现成案例。",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-09-202"
+      "tag": "经济",
+      "title": "美国10月CPI环比0.4%，核心0.3%均超预期",
+      "summary": "美国劳工统计局周二公布，10月CPI环比上涨0.4%，核心CPI涨0.3%，连续三个月为0.3%，均高于预期；能源环比涨0.7%。因去年政府停摆缺少2025年10月数据，本次没有公布同比。美联储理事沃勒表示倾向12月加息25个基点，达拉斯联储洛根认为还需再加息两次；下次议息会议在12月8–9日。",
+      "why": "面试常问“为什么美联储在加息周期里还要看核心通胀”，可以用这组环比数据和数据缺口（无同比）练一段1分钟的回答。",
+      "source": "美国劳工统计局 BLS",
+      "url": "https://www.bls.gov/news.release/cpi.nr0.htm"
     },
     {
-      "tag": "AI",
-      "title": "英伟达董事会独立调查黄仁勋，股价逆势跌 4%",
-      "summary": "据报道美国情报显示黄仁勋曾是某外国情报行动的目标，英伟达董事会由独立董事组成委员会并聘请外部律师展开审查，称目前没有理由认为公司机密或国家安全受损。英伟达周一收跌 4.27% 至 178.67 美元，市值蒸发约 1,920 亿美元，而 AMD 同日大涨约 13%、博通涨约 9%。英伟达将于 11 月 17 日发布三季度财报。",
-      "why": "“关键人物风险 + 公司治理”是 ESG 和股票研究面试的常见考点，可以用这件事练习：独立董事调查如何影响估值和投资者信心。",
-      "source": "StockTitan",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-9-2026"
+      "tag": "投资",
+      "title": "CPI偏热，美股回落，10年期美债收益率升至5%",
+      "summary": "11月10日道指收跌0.30%至52,231.89点，标普500跌0.38%，纳指跌0.74%，科技板块跌1.13%领跌。10年期美债收益率上升约14个基点至5.00%。英伟达因黄仁勋相关诉讼和董事会调查继续下挫，Costco宣布每股30美元特别股息。",
+      "why": "把“通胀超预期→利率预期上调→长端收益率升→高估值科技股承压”这条传导链讲顺，是投行/资管面试里市场题的标准答法。",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026"
+    },
+    {
+      "tag": "投资",
+      "title": "布伦特油价跌破90美元，为8月底以来首次",
+      "summary": "特朗普表示在地区国家劝说下暂缓对伊朗的新一轮打击，周二布伦特原油跌约3.2%至89.65美元，8月31日以来首次跌破90美元，WTI跌至84.52美元。布伦特较10月30日约118美元的半年高点已回落约23%；摩根大通估计10月全球原油供应过剩约每日140万桶。",
+      "why": "油价回落会压低英国和美国的通胀预期，可以拿它和今天的CPI、英国央行刚加息放在一起，练习分析“供给冲击退潮时央行怎么办”。",
+      "source": "RTÉ",
+      "url": "https://www.rte.ie/news/business/2026/1110/1598641-world-oil-prices/"
     },
     {
       "tag": "金融",
-      "title": "Anthropic 向投行发出 IPO 定价后又撤回",
-      "summary": "据路透社，Anthropic 周一向承销投行发出 IPO 文件，拟以每股 70–80 美元发行约 8.67 亿股、最多募资 693 亿美元，随后又发邮件称数字“不准确”，将另行更新。按该区间测算估值约 1.4 万亿美元，低于一周前市场预期的约 1.5 万亿；《华尔街日报》称最早下周挂牌。公司三季度收入约 170 亿美元，净亏损约 233 亿美元。",
-      "why": "这是 ECM 和科技投行最热的案例，可以拿它练习 IPO 定价逻辑：市场情绪（上周 AI 抛售）如何压低发行估值。",
-      "source": "Stocktwits（援引路透社、WSJ）",
-      "url": "https://stocktwits.com/news-articles/markets/equity/anthropic-retracts-reported-70-80-ipo-price-range-says-pricing-update-is-coming-listing-expected-next-week/cNGud3sR970"
+      "title": "Anthropic定IPO区间，估值最高1.4万亿美元",
+      "summary": "Anthropic计划发行8.25亿股，价格区间每股70–78美元，按上限募资最多约644亿美元，完全摊薄估值最高约1.4万亿美元，低于此前市场传言的2万亿美元。包括谷歌、英伟达在内的七家合作方同意以IPO价格认购260亿美元无投票权股票；公司将在纳斯达克上市，代码ANT，年化收入约810亿美元。",
+      "why": "这是史上最大规模IPO之一，适合用来复习IPO定价、基石投资者和估值倍数（市值/年化收入）等ECM面试常考概念。",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/11/10/anthropic-ipo-price-range-ai-stock-sell-off/"
+    },
+    {
+      "tag": "金融",
+      "title": "麦肯锡：AI智能体成本或达银行人力成本1/5",
+      "summary": "麦肯锡《全球银行业年度报告》指出，银行AI智能体的token成本可能升至人力成本的约五分之一，部分银行已组建“AI FinOps”团队控费。对4.6万名零售银行客户的调查显示，多数人已用AI比较银行产品，72%的AI用户愿让智能体代办一项金融任务。报告预计AI智能体三年内普及，并可能把无息存款搬向高息账户、压缩银行利润。",
+      "why": "做银行或咨询面试准备时，可以引用“AI成本也要算ROI”这一点，显示你不只看到AI省人力，也看到它对存款和利差的冲击。",
+      "source": "Reuters（经 Investing.com）",
+      "url": "https://investing.com/news/economy-news/banks-seek-to-rein-in-soaring-ai-agent-costs-mckinsey-says-5015595"
     },
     {
       "tag": "AI",
-      "title": "欧盟拟立《数字公平法》，管 AI 陪伴聊天机器人",
-      "summary": "据彭博社，欧盟司法专员麦格拉思将于 11 月 11 日提交《数字公平法》草案：拉黑十种操纵性网页设计，并要求成年用户可以关闭“模拟人际关系以延长使用时间”的 AI 聊天功能。违规企业最高可被罚全球年营业额的 6%，草案还需与成员国和欧洲议会谈判。另外，《AI 法案》部分禁令和生成内容标识义务将于 12 月 2 日生效。",
-      "why": "AI 监管正从“模型安全”扩展到“消费者保护”，咨询和合规岗位面试时可以把它和 GDPR、AI 法案放在一张合规地图里讲。",
-      "source": "AI Weekly（援引 Bloomberg）",
-      "url": "https://aiweekly.co/alerts/eu-draft-digital-fairness-act-targets-ai-companion-bots-6-fines"
-    },
-    {
-      "tag": "经济",
-      "title": "英国 10 月零售销售同比 1.1%，略低于预期",
-      "summary": "英国零售商协会（BRC）数据显示，10 月同店零售销售同比增长 1.1%，略低于 1.2% 的预期，9 月为 1.0%；总销售额增 1.5%。食品销售增长 3.2%，非食品零增长，消费者在黑五和节日季前捂紧钱包。巴克莱卡消费同比增 2.3%，其中燃油支出大增 22.7%。",
-      "why": "“食品涨、非食品平”说明通胀在挤压可选消费，分析英国零售或消费品公司时，这是一个可以直接引用的最新数据点。",
-      "source": "Trading Economics",
-      "url": "https://tradingeconomics.com/united-kingdom/brc-retail-sales-monitor-yoy"
-    },
-    {
-      "tag": "经济",
-      "title": "贝利今天加息后首次讲话，市场押注再加三次",
-      "summary": "英国央行行长贝利今天在苏黎世发表讲话，是 11 月 5 日加息至 4% 后的首次公开表态。市场目前定价到明年底还会再加息三次，比多数经济学家的预期更鹰派；首席经济学家皮尔则称明年利率“没有定数”，增长转弱时也可能持平或下调。英镑兑美元早盘在 1.3445 附近，周四公布三季度 GDP 初值。",
-      "why": "“市场定价 vs 央行指引”的分歧是宏观面试高频题，今晚可以看贝利讲话后英镑和英国短端利率怎么动。",
-      "source": "Tradingpedia",
-      "url": "https://www.tradingpedia.com/2026/11/10/pound-holds-firm-as-traders-await-us-cpi-boe-tone/"
-    },
-    {
-      "tag": "就业",
-      "title": "澳航裁 850 个总部岗，外包给埃森哲加速用 AI",
-      "summary": "澳航宣布与埃森哲签订多年期外包合作，未来几年削减约 850 个企业岗位，首批从财务、采购和市场部门开始，2027 年中前落地；工作主要转给埃森哲在印度的团队。CEO 哈德森表示公司有一千多个遗留系统，此举将加快 AI 应用，澳航会尽量为受影响员工调岗。",
-      "why": "财务、采购这类后台岗位正被“咨询公司 + AI”打包接手，求职时可以关注咨询公司的运营转型和 AI 交付团队，那里在扩张。",
-      "source": "ABC News（澳大利亚）",
-      "url": "https://www.abc.net.au/news/2026-11-10/850-jobs-to-go-from-qantas-as-airline-moves-roles-overseas/107368120"
+      "title": "IBM与微软推出行业AI智能体平台，先做金融保险",
+      "summary": "IBM咨询和微软11月10日发布智能体平台Imagine Enterprise，用于在受监管行业搭建、运行和治理AI智能体，内置合规与可观测性功能。IBM提供6,000多个预置智能体，微软提供云、数据和安全底座；首批行业框架覆盖金融服务、保险和零售，资管科技公司SEI正在试用。",
+      "why": "这说明咨询公司正把“行业知识+AI智能体”打包交付，申请咨询或金融科技岗时，可以准备一个“如何在受监管行业落地AI并控制风险”的案例观点。",
+      "source": "Microsoft",
+      "url": "https://news.microsoft.com/source/2026/11/10/ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation/"
     },
     {
       "tag": "国际",
-      "title": "美俄乌阿布扎比三方会谈今日开幕，聚焦安全保障",
-      "summary": "美国特使库什纳和威特科夫主持为期两天的三方会谈，这是 2 月以来首次此类会议，议题以安全保障为主。俄方由梅金斯基率团，乌方由乌梅罗夫带队；俄方仍要求乌克兰撤出四个州并放弃加入北约，乌方拒绝割地并呼吁立即停火。会前美方还会分别会见欧盟、北约以及英法德意代表。",
-      "why": "和谈进展会直接影响欧洲能源价格、国防股和欧元区风险溢价，面试谈欧洲宏观或地缘风险时可以引用这条最新进展。",
-      "source": "AP（KSAT 转载）",
-      "url": "https://www.ksat.com/news/world/2026/11/10/us-brokered-talks-are-set-to-start-in-abu-dhabi-to-discuss-ukraine-russia-peace-deal/"
+      "title": "阿布扎比俄乌和谈首日，泽连斯基称“有建设性”",
+      "summary": "美国特使威特科夫和库什纳斡旋的俄乌直接会谈在阿布扎比举行两天，首日上午讨论人道问题和安全保障，泽连斯基称会谈有建设性、有实质内容。乌方由乌梅罗夫率团，俄方由梅金斯基率团。美方官员称双方私下在占领领土问题上有一定弹性，但领土协议可能放在最后；分析人士认为本轮达成协议的可能性不大。",
+      "why": "和谈进展会影响欧洲能源价格、防务股和重建融资，面试聊宏观或欧洲市场时可以作为地缘风险的最新例子。",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes"
+    },
+    {
+      "tag": "国际",
+      "title": "中国延长暂停24%对美加征关税两个月",
+      "summary": "国务院关税税则委员会宣布，自11月10日起继续暂停对美国商品加征24%关税两个月，至2027年1月10日左右，同时保留10%的关税。美方此前敦促中方落实农产品采购、稀土和关键矿产方面的承诺；特朗普与习近平可能在本月深圳APEC和12月迈阿密G20期间会面。",
+      "why": "中美关税休战的期限和谈判节点，是理解大宗商品、供应链和人民币汇率走势的关键背景，适合做国际商务或贸易类面试素材。",
+      "source": "StockAnalysis",
+      "url": "https://stockanalysis.com/news/china-extends-tariff-suspension/"
+    },
+    {
+      "tag": "就业",
+      "title": "英国10月长期岗位招聘四个月来首次下降",
+      "summary": "KPMG与英国招聘与就业联合会（REC）的报告显示，10月英国长期岗位招聘人数四个月来首次下降，降幅为今年第二大，临时岗位也转为下降；候选人供给已连续44个月增加。官方数据显示英国职位空缺降至69.1万个，为疫情外2014年9月以来最低，但新员工起薪仍在上涨。",
+      "why": "求职者多、岗位少意味着竞争更激烈，但起薪上涨说明企业仍愿为技能付钱，投递时要突出可量化的数据与AI工具能力。",
+      "source": "People Management",
+      "url": "https://www.peoplemanagement.co.uk/article/1974693/permanent-placements-fall-first-time-four-months-report-finds"
     },
     {
       "tag": "全球健康",
-      "title": "WHO：63 国已消除至少一种被忽视热带病",
-      "summary": "WHO 发布 2021–2030 被忽视热带病路线图中期评估：截至 2026 年 6 月，63 个国家消除了至少一种 NTD（2020 年底为 42 个），需要干预的人数降至 14.1 亿，比 2010 年少 36%。但登革热病例在 2024 年创下 1,510 万的纪录，只有三项疾病指标达到 2025 年里程碑；国际 NTD 资金比疫情前仍低约 30%，且近八成来自少数捐助方。",
-      "why": "“成果显著但资金集中、缺口大”是全球健康融资的典型叙事，可以把这组数据写进 Global Health 岗位申请里的“资金可持续性”论点。",
-      "source": "WHO",
-      "url": "https://www.who.int/news/item/04-11-2026-progress-against-neglected-tropical-diseases-requires-sustained-action"
-    },
-    {
-      "tag": "全球健康",
-      "title": "英国卫生大臣：AI 可能减少部分 NHS 岗位需求",
-      "summary": "卫生大臣库珀 11 月 4 日在议会表示，AI 可能让 NHS 某些领域需要的人手减少，同时 GP、社区护理和言语治疗等领域需要扩充，但未点名具体岗位。原定今年发布的十年劳动力计划推迟到明年初，没有确切日期。NHS 英格兰自 6 月起向 50.5 万员工推广微软 Copilot，试点显示每人每天节省约 43 分钟。",
-      "why": "卫生管理和 NHS 咨询类岗位面试很可能问到“AI 如何改变卫生人力规划”，这组数字（50.5 万人、每天 43 分钟）可以直接用。",
-      "source": "Digital Health（Resultsense 转载）",
-      "url": "https://www.resultsense.com/news/2026-11-05-cooper-ai-nhs-workforce-plan-delay/"
+      "title": "刚果（金）埃博拉确诊近1.1万例，诊所遭袭",
+      "summary": "截至11月10日，刚果（金）本迪布焦型埃博拉疫情已有10,990例确诊、5,354人死亡，为有记录以来第二大埃博拉疫情，并已波及肯尼亚、尼日利亚等五国。11月4–8日北基伍省五处医疗点遭武装袭击，其中三处被烧毁；该毒株尚无获批疫苗。非洲疾控中心与WHO的5.18亿美元应对计划中，刚果（金）资金缺口超过1.8亿美元。",
+      "why": "这是冲突、资金缺口和疫苗研发交织的典型案例，适合用卫生经济学视角（成本效益、援助削减的后果）准备全球健康岗位的案例题。",
+      "source": "Tech Times",
+      "url": "https://www.techtimes.com/articles/330415/20261110/three-ebola-clinics-torched-hundreds-patients-scattered-drc-outbreak-hits-10990-response.htm"
     }
   ],
-  "action": "今日行动（约 1 小时）：以澳航–埃森哲外包和 NHS 推广 Copilot 两个案例为素材，写一个 2 分钟的面试回答：“AI 如何改变咨询公司的业务模式和入门岗位”，按“现象—数据—对雇主的意义—我能贡献什么”四段写，再录音听一遍并删到 250 词以内。",
+  "action": "花约1小时：读麦肯锡《全球银行业年度报告》的摘要，写下3个要点和1个自己的判断（例如“AI智能体会怎样影响银行存款和利差”），再录一段2分钟的口头回答，用于银行或咨询面试。",
   "watch": [
     {
-      "date": "11/11",
-      "event": "欧盟委员会提交《数字公平法》草案（含 AI 聊天机器人条款）"
-    },
-    {
       "date": "11/12",
-      "event": "英国三季度 GDP 初值公布"
+      "event": "英国9月GDP及三季度GDP初值（伦敦时间07:00，ONS）"
     },
     {
-      "date": "11/17",
-      "event": "英国 ONS 劳动力市场数据；英伟达三季度财报"
+      "date": "11/18",
+      "event": "深圳APEC领导人非正式会议（11/18–19），特朗普与习近平或会面"
+    },
+    {
+      "date": "11/19",
+      "event": "Anthropic计划在纳斯达克上市（代码ANT，时间可能为19日或20日）"
     }
   ]
 }
