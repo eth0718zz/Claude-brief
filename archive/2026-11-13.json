@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-13",
+  "weekday": "周五",
+  "updated": "2026-11-13 07:51 伦敦时间",
+  "headline": "黄仁勋辞去英伟达CEO，CFO克雷斯暂代；美10年期国债收益率升至5.1%，金价跌逾2%；美特使见普京后在都柏林会晤泽连斯基。",
+  "items": [
+    {
+      "tag": "AI",
+      "title": "黄仁勋辞任英伟达CEO，CFO克雷斯暂代",
+      "summary": "英伟达周四确认，黄仁勋辞去总裁、CEO及董事职务，董事会已于周三接受；此前他承认婚外情，并被曝与一名涉嫌为中国情报工作的人士有关，引发国家安全担忧。CFO科莱特·克雷斯出任临时CEO并兼任CFO，1993年起任董事的哈维·琼斯成为公司首位董事长。股价盘中一度跌约14%，收跌4.34%至166.19美元，AMD同日涨5.9%。",
+      "why": "这是讲“关键人物风险”和公司治理的现成案例：面试时可以说明创始人型CEO离任为何会影响估值，以及董事会结构（首设董事长）如何回应投资者担忧。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/"
+    },
+    {
+      "tag": "投资",
+      "title": "美债10年期收益率升至5.1%，美股三大指数齐跌",
+      "summary": "11月12日标普500跌0.35%至7,592.40点，道指跌0.36%，纳指跌0.39%，罗素2000跌1.66%，VIX升至18.70。10年期美债收益率升至约5.10%，盘中最高5.12%，30年期一度约5.44%。比特币跌约4.3%至约70,786美元；Strategy因MSCI提议将其移出两只美国指数，盘中一度跌约6%。",
+      "why": "长端利率站上5%会压低成长股估值，可以用“贴现率上升→科技股估值承压”这条逻辑解释近期AI股波动，作为市场类面试题的素材。",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
+    },
+    {
+      "tag": "投资",
+      "title": "加息押注推高美元，金价跌至3,890美元",
+      "summary": "11月12日美国早盘，金价跌2.38%至约3,890美元/盎司，为一周多来最低，白银跌2.8%至约50.19美元。美元指数一度触及19个月高点，报约102.85。期货市场隐含美联储12月8–9日会议加息25个基点的概率约为88%–91%；当周首申失业金人数为20万人，略高于预期的约19.5万人。",
+      "why": "金价、美元和加息预期的联动是宏观面试常考点，可以用今天的数据练习解释“实际利率与美元走强如何压制无息资产”。",
+      "source": "Kitco",
+      "url": "https://www.kitco.com/news/article/2026-11-12/gold-silver-extend-losses-fed-hike-bets-lift-dollar-treasury-yields-kitco"
+    },
+    {
+      "tag": "国际",
+      "title": "特朗普称不再需要与伊朗达成协议，油价仍处高位",
+      "summary": "特朗普在社交媒体上表示，美国已不需要与伊朗达成协议，并释放不打算重启战争的信号。霍尔木兹海峡的航运袭击仍在继续，伊斯兰革命卫队称两艘超级油轮发生爆炸。截至迪拜时间周五早上，布伦特原油约95.59美元/桶、WTI约88.26美元/桶，有望连续第二周下跌；今年2月底战争爆发前布伦特约72美元。",
+      "why": "“外交表态”和“实际航运风险”在给油价相反的信号，分析能源股、通胀和央行路径时要把两者分开看，这也是咨询案例中常见的情景分析框架。",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/business/energy/2026/11/13/oil-on-track-to-post-second-weekly-decline-as-trump-eases-fears-of-renewed-war-with-iran/"
+    },
+    {
+      "tag": "国际",
+      "title": "美特使见普京后赴都柏林会晤泽连斯基",
+      "summary": "威特科夫和库什纳周四在克里姆林宫会见普京，普京提议在顿巴斯的康斯坦丁尼夫卡开展临时“人道主义任务”，暂停战斗以疏散平民。两人当晚在都柏林欧洲政治共同体峰会期间会见泽连斯基，会谈细节未公开。英国同日宣布针对俄罗斯能源和航运业的新一轮制裁，“意愿联盟”将于下周在柏林再开乌克兰峰会。",
+      "why": "和谈进展会直接影响欧洲能源价格、防务股和乌克兰重建融资，建议跟踪柏林峰会和欧盟新制裁，作为地缘风险定价的面试例子。",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/zelensky-meets-with-trumps-envoys-in-dublin-after-their-summit-with-putin/"
+    },
+    {
+      "tag": "AI",
+      "title": "台积电拟出资10亿美元入股Anthropic与OpenAI",
+      "summary": "据路透报道，台积电董事会批准最多5亿美元以IPO价格认购Anthropic股份，另计划最多5亿美元购买OpenAI优先股。Anthropic IPO定价区间为每股70–78美元，估值最高约1.4万亿美元，另有260亿美元私募，投资方包括谷歌、英伟达、AMD和微软。台积电预计2026年营收增长约44%，对2027年持谨慎态度。",
+      "why": "供应商反过来投资客户的“循环融资”是分析AI需求真实性的关键问题，准备投行或咨询面试时可以用它讨论估值和收入质量。",
+      "source": "Reuters（经 The Star）",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/10/tsmc-to-invest-up-to-1-billion-in-anthropic-openai"
+    },
+    {
+      "tag": "金融",
+      "title": "贝恩：AI可能改写银行赚钱的地方",
+      "summary": "贝恩11月12日发布报告称，在2025年末资产规模前30的银行中，在业务线上排名第一或接近第二的银行股本回报率约15%，地位较弱的只有9%；大型银行的ROE至今未恢复到金融危机前水平。报告认为AI会降低进入门槛、让客户转换银行几乎没有摩擦，银行应按业务线决定进攻、防守或退出。",
+      "why": "这份报告的框架（市场地位→ROE→AI冲击客户惰性）可以直接用于咨询案例面试，回答“AI如何影响银行盈利”时比只谈降本更有深度。",
+      "source": "Bain & Company",
+      "url": "https://www.bain.com/about/media-center/press-releases/2026/ai-could-reshape-where-banks-make-money-market-leadership-positions-will-decide-who-keeps-it-bain-company"
+    },
+    {
+      "tag": "经济",
+      "title": "RICS：英国楼市销售预期创2023年以来最弱",
+      "summary": "英国皇家特许测量师学会10月调查显示，未来12个月销售预期指数为-17，为2023年7月以来最差；房价指数降至-36，差于路透调查预期的-34；已成交销售指数从-18降至-24。受英国央行上周加息至4%、按揭利率上升影响，买房需求受压，而租客需求走强，未来三个月租金预期升至+41，为2024年初以来最高。",
+      "why": "加息→按揭成本→房价与租金分化，是讲英国货币政策传导的好例子，可以和下周的CPI一起放进你的“英国经济快照”。",
+      "source": "Reuters（经 Investing.com）",
+      "url": "https://www.investing.com/news/economy-news/uk-house-sales-outlook-is-darkest-since-2023-rics-says-5020094"
+    },
+    {
+      "tag": "就业",
+      "title": "Stripe研究：毕业生就业疲软更多与远程办公有关",
+      "summary": "Stripe Economics的Ernie Tedeschi 11月12日发文分析美国数据：22–26岁本科毕业生就业率9月为88%，比三年前低约1个百分点，失业的年轻毕业生平均已找了12周工作，比几年前长约三分之一。按职业的远程办公普及率，可以解释2023–2026年下降的56%–88%；AI暴露度的影响为负，但统计上不显著。作者强调结论是相关而非因果。",
+      "why": "这是练习“区分相关与因果”的好素材：面试时被问AI是否抢走入门岗，可以引用这类研究说明变量高度相关、需要谨慎识别。",
+      "source": "Stripe Economics",
+      "url": "https://www.stripeeconomics.com/p/ai-work-from-home-and-the-young-graduate"
+    },
+    {
+      "tag": "全球健康",
+      "title": "WHO结核病报告：死亡降35%，国际资金下滑",
+      "summary": "WHO 11月12日发布《2026年全球结核病报告》：2025年约1,060万人患病、110万人死亡，死亡人数较2015年下降35%，但发病率只降14%，远低于50%的目标，美洲发病率连续第五年上升。各国国内结核病投入增长14%至56亿美元，部分抵消了规模相近的国际资金下降；研发资金仅12亿美元，不到目标的四分之一。",
+      "why": "“国际援助减少、国内筹资补位”是当前全球健康融资的主线，面试全球健康管理类岗位时可以用这组数字讨论可持续筹资。",
+      "source": "WHO",
+      "url": "https://www.who.int/news/item/12-11-2026-amid-challenges-countries-increase-domestic-investment-to-protect-progress-against-tuberculosis"
+    }
+  ],
+  "action": "用45分钟读完Stripe Economics那篇关于年轻毕业生就业的文章，写5条要点：研究问题、数据、方法、主要结论、局限（AI与远程办公高度相关）。再整理成一段1分钟的口述，回答“AI是否在抢走入门岗位”，用于经济学或数据科学岗位面试。",
+  "watch": [
+    { "date": "11/16", "event": "欧盟计划通过新一轮对俄制裁（据报道涉及150个实体和50家银行）" },
+    { "date": "11/17", "event": "英国ONS公布最新劳动力市场数据" },
+    { "date": "11/17", "event": "英伟达原定公布2027财年三季度财报（美东17:00），为黄仁勋辞任后首份财报" },
+    { "date": "11/19", "event": "据报道Anthropic在纳斯达克上市交易（代码ANT），18日定价" }
+  ]
+}
