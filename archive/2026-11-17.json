@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-17",
+  "weekday": "周二",
+  "updated": "2026-11-17 07:50 伦敦时间",
+  "headline": "美股科技股重挫，英伟达今晚财报将定调AI行情；美国出台AI算力远程访问新规；英国失业率降至4.6%，但薪资和岗位双双降温。",
+  "items": [
+    {
+      "tag": "投资",
+      "title": "美股周一大跌，亚太股市周二跟跌",
+      "summary": "周一标普500跌1.9%、纳指跌2.5%、道指跌1.4%，英伟达跌4.1%，自黄仁勋事件以来市值已蒸发约7,350亿美元。周二亚太继续走弱：韩国Kospi跌2.6%，六个月来首次收在5,000点下方；日经225跌1.3%，恒指跌0.9%。布油小幅回落至约92美元。",
+      "why": "面试被问“最近市场怎么了”时，可以用“AI龙头的公司治理风险加上出口管制，叠加高利率”这条线来串起这次科技股回调。",
+      "source": "AP（经KSAT）",
+      "url": "https://www.ksat.com/business/2026/11/17/asian-markets-mostly-drop-as-ai-stocks-remain-under-pressure/"
+    },
+    {
+      "tag": "投资",
+      "title": "英伟达今晚发三季报，代理CEO首秀",
+      "summary": "英伟达将于美股周二盘后公布截至10月25日的季度业绩。公司指引营收1,080亿美元（±2%），市场预期约1,088–1,090亿美元，调整后EPS预期2.47–2.48美元，同比增长约90%；毛利率指引74%。这是黄仁勋辞任后的首份财报，代理CEO克雷斯将在电话会上发言。",
+      "why": "可以把它当作练习：会前写下你关注的三个指标（下季指引、毛利率、数据中心收入），会后对照结果复盘，练的就是投研和咨询岗都要的“预期差”思维。",
+      "source": "OANDA",
+      "url": "https://www.oanda.com/bvi-en/skills-and-insights/education/trading-asset-classes/shares/nvidia-q3-earnings-preview-nov-2026/"
+    },
+    {
+      "tag": "AI",
+      "title": "美国新规堵住AI算力“远程访问”漏洞",
+      "summary": "美国商务部发布临时规则：如果境外数据中心可能为中国等受限国家的企业提供算力，向其出口AI芯片和服务器须申请许可，规模门槛约相当于750块H100。马来西亚、新加坡、印尼、泰国和巴西被列为转运风险较高、需额外许可的国家。现有运营商须在规则生效后90天内取得许可，拜登时期的“AI扩散规则”同时废止。",
+      "why": "这是“技术地缘政治影响商业模式”的典型案例，适合用在咨询案例面试里讨论东南亚数据中心投资和云服务的合规成本。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/"
+    },
+    {
+      "tag": "金融",
+      "title": "美联储：AI成金融体系头号风险",
+      "summary": "美联储半年度《金融稳定报告》显示，纽约联储调查的市场人士中有87%把AI列为风险，春季时这一比例为50%。截至10月，为AI算力基础设施发行的债务已超过6,800亿美元，而2023年全年只有1,300亿；美国最大几家银行对科技、数据中心及相关融资主体的风险敞口接近1万亿美元，对冲基金杠杆也创下2013年有记录以来的新高。",
+      "why": "银行、资管和评级岗的面试常问“当前最大的系统性风险是什么”，可以引用“循环融资”和表外租赁承诺这两点来回答，比泛泛地说“AI泡沫”更具体。",
+      "source": "Stock Analysis（转述美联储报告）",
+      "url": "https://stockanalysis.com/news/fed-financial-stability-report-ai-risk-november-2026/"
+    },
+    {
+      "tag": "就业",
+      "title": "英国失业率降至4.6%，但招聘明显降温",
+      "summary": "英国统计局今早公布，7–9月失业率为4.6%，好于预期的4.7%；不含奖金的薪资增速从3.7%放缓至3.5%。另一方面，10月PAYE受雇人数减少3.4万，8–10月职位空缺降至69万，是2014年以来非疫情时期的最低水平，10月申领失业救济人数增加3.3万。统计局提示，失业率下降部分源于调查样本调整。",
+      "why": "岗位空缺持续减少说明今年英国求职竞争更激烈，投递时要更早，也要更依赖内推和networking；这组“失业率好看、其他指标转弱”的数据也很适合做面试里的宏观谈资。",
+      "source": "ActionForex（英国统计局数据）",
+      "url": "https://www.actionforex.com/live-comments/661129-uk-unemployment-falls-to-4-6-but-payroll-losses-and-weaker-hiring-tell-different-story/"
+    },
+    {
+      "tag": "经济",
+      "title": "沃什讲话避谈利率，市场仍押注12月加息",
+      "summary": "美联储主席沃什周一的讲话以AI为主，没有给出货币政策指引，市场把这解读为“没有更鹰”，美债短端收益率随之回落：2年期跌3.1个基点至4.821%，10年期报5.117%。克利夫兰联储主席哈马克表示支持小步、渐进加息，期货市场仍完全定价12月加息。",
+      "why": "读懂“央行沉默也是信号”，就能在面试里解释为什么一场没提利率的讲话也会让收益率曲线变陡。",
+      "source": "Newsquawk",
+      "url": "https://www.newsquawk.com/headlines/us-market-wrap---16th-november-2026-risk-off-trade-as-tech-rout-resumes-supporting-havens-"
+    },
+    {
+      "tag": "国际",
+      "title": "特朗普亚洲行：马尼拉之后转赴深圳",
+      "summary": "特朗普周二在马尼拉东盟峰会期间与日本、印度、澳大利亚领导人讨论印太安全，并与泰国签署贸易协议；周三对菲律宾进行国事访问后飞往深圳出席APEC。周四他将与习近平、普京举行三方会晤，白宫称重点是核不扩散，伊朗问题也会谈到，乌克兰问题据报不在议程上。",
+      "why": "关注会后有没有关税或出口管制方面的表态，这会直接影响你对亚洲供应链、新兴市场资产的判断，也是咨询面试里讨论地缘风险的好素材。",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/"
+    },
+    {
+      "tag": "国际",
+      "title": "克宫否认同意欧洲加入俄乌谈判",
+      "summary": "克宫助理乌沙科夫称，俄方从未同意欧洲参加下一轮乌克兰和谈，与美国特使威特科夫和库什纳会见普京后的说法相矛盾。他表示目前讨论的仍是俄、乌、美三方形式，下一轮日期未定。欧洲理事会主席科斯塔则表示，欧洲谈判团队将包括英、法、德、意、波及欧盟机构。",
+      "why": "和谈进展反复不定，会影响欧洲能源、防务股和欧元走势；跟踪“谁坐上谈判桌”有助于你理解英国在欧洲安全事务中的角色。",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/11/16/kremlin-aide-denies-russia-agreed-to-include-europe-in-ukraine-peace-talks-a94279"
+    },
+    {
+      "tag": "全球健康",
+      "title": "Menlo：医疗AI支出一年增长2.5倍",
+      "summary": "Menlo Ventures对550名美国医疗和生命科学高管的调查显示，2026年医疗AI支出达到37亿美元，是法律和金融两个行业之和以上。生命科学领域的AI支出增长23倍至7亿美元，临床辅助工具增长5.5倍至5.5亿美元；保险方把事前授权列为AI头号优先事项（82%）。",
+      "why": "这为Global Health Management背景提供了现成的行业数据：面试医疗咨询或健康科技岗位时，可以讨论支付方和医院的“AI编码军备竞赛”如何推高医疗成本。",
+      "source": "GlobeNewswire（Menlo Ventures新闻稿）",
+      "url": "https://www.globenewswire.com/news-release/2026/11/16/3403313/0/en/menlo-ventures-2026-state-of-ai-in-healthcare-report-healthcare-ai-spending-hits-3-7b-up-2-5x-as-growth-shifts-from-paperwork-to-drug-discovery-and-patient-care.html"
+    },
+    {
+      "tag": "全球健康",
+      "title": "美国料本周失去麻疹消除地位",
+      "summary": "泛美卫生组织专家组已于11月10–13日完成审查，预计本周宣布取消美国保持了26年的麻疹消除地位。美国2026年已报告超过5,200例，为1991年以来最多，96%的感染者未接种疫苗；2025–26学年有18个州的MMR接种率低于90%。",
+      "why": "这是疫苗犹豫和公共卫生信任下降造成经济与健康代价的典型案例，可以用在卫生政策或卫生经济学相关的面试和论文讨论中。",
+      "source": "fundsforNGOs News",
+      "url": "https://news.fundsforngos.org/2026/11/17/paho-expected-to-revoke-us-measles-elimination-status-after-5200-cases"
+    }
+  ],
+  "action": "用1小时整理今早的英国劳动力市场数据：把失业率、PAYE受雇人数、职位空缺、薪资增速四个数字做成一页笔记，再写一段90秒的口述回答——“英国就业在升温还是降温？对英国央行下一步决策意味着什么？”——作为金融和咨询面试中的市场问题素材。",
+  "watch": [
+    {
+      "date": "11/17",
+      "event": "英伟达公布三季报（美股盘后），市场预期营收约1,088–1,090亿美元"
+    },
+    {
+      "date": "11/18",
+      "event": "英国10月CPI；Anthropic IPO预计定价"
+    },
+    {
+      "date": "11/19",
+      "event": "Anthropic预计在纳斯达克开始交易；特朗普、习近平、普京在深圳举行三方会晤"
+    }
+  ]
+}
