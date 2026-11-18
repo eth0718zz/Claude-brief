@@ -1,103 +1,95 @@
 {
-  "date": "2026-11-17",
-  "weekday": "周二",
-  "updated": "2026-11-17 07:50 伦敦时间",
-  "headline": "美股科技股重挫，英伟达今晚财报将定调AI行情；美国出台AI算力远程访问新规；英国失业率降至4.6%，但薪资和岗位双双降温。",
+  "date": "2026-11-18",
+  "weekday": "周三",
+  "updated": "2026-11-18 07:50 伦敦时间",
+  "headline": "英国10月CPI升至3.6%，核心持平；英伟达财报大超预期，盘后涨约4%；美伊再度交火，美中俄明日深圳会晤。",
   "items": [
     {
-      "tag": "投资",
-      "title": "美股周一大跌，亚太股市周二跟跌",
-      "summary": "周一标普500跌1.9%、纳指跌2.5%、道指跌1.4%，英伟达跌4.1%，自黄仁勋事件以来市值已蒸发约7,350亿美元。周二亚太继续走弱：韩国Kospi跌2.6%，六个月来首次收在5,000点下方；日经225跌1.3%，恒指跌0.9%。布油小幅回落至约92美元。",
-      "why": "面试被问“最近市场怎么了”时，可以用“AI龙头的公司治理风险加上出口管制，叠加高利率”这条线来串起这次科技股回调。",
-      "source": "AP（经KSAT）",
-      "url": "https://www.ksat.com/business/2026/11/17/asian-markets-mostly-drop-as-ai-stocks-remain-under-pressure/"
+      "tag": "经济",
+      "title": "英国10月CPI升至3.6%，核心通胀持平",
+      "summary": "英国统计局今早公布，10月CPI同比3.6%，高于9月的3.5%，但略低于部分机构3.7%的预期；环比上涨0.5%。核心CPI持平于2.8%，服务业通胀持平于3.7%。主要推手是燃油：汽车燃料同比上涨33.2%，为2022年7月以来最高；食品饮料通胀则降到0.9%，是2021年9月以来最低。",
+      "why": "面试被问英国通胀时，可以拆成“能源冲击推高总体、核心和服务业没有恶化”两层来讲，再引出英国央行为什么更看重服务业通胀。",
+      "source": "ActionForex（英国统计局数据）",
+      "url": "https://www.actionforex.com/live-comments/661264-uk-inflation-rises-to-3-6-as-fuel-prices-surge-core-cpi-holds-steady/"
     },
     {
       "tag": "投资",
-      "title": "英伟达今晚发三季报，代理CEO首秀",
-      "summary": "英伟达将于美股周二盘后公布截至10月25日的季度业绩。公司指引营收1,080亿美元（±2%），市场预期约1,088–1,090亿美元，调整后EPS预期2.47–2.48美元，同比增长约90%；毛利率指引74%。这是黄仁勋辞任后的首份财报，代理CEO克雷斯将在电话会上发言。",
-      "why": "可以把它当作练习：会前写下你关注的三个指标（下季指引、毛利率、数据中心收入），会后对照结果复盘，练的就是投研和咨询岗都要的“预期差”思维。",
-      "source": "OANDA",
-      "url": "https://www.oanda.com/bvi-en/skills-and-insights/education/trading-asset-classes/shares/nvidia-q3-earnings-preview-nov-2026/"
+      "title": "英伟达三季报超预期，下季指引1,300亿美元",
+      "summary": "英伟达截至10月25日的季度营收1,158亿美元，同比增长103%，数据中心收入1,076亿美元；非GAAP毛利率74.9%。公司给出下季营收指引1,300亿美元（±3%，含多出的一周，且不计中国数据中心收入），高于市场约1,253亿美元的预期；但下季毛利率指引降至71%–72%。股价盘后上涨约4%。",
+      "why": "昨天建议你会前写下三个关注指标，今天可以对照复盘：营收和指引都超预期，但毛利率指引下滑，这正是“超预期但有隐忧”的典型分析框架。",
+      "source": "NVIDIA新闻稿（经Yahoo Finance）",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-announces-financial-results-third-212000678.html"
+    },
+    {
+      "tag": "投资",
+      "title": "美股四连跌，金价跌至一年多低点",
+      "summary": "周二标普500跌1.0%至7,340点，创7月以来最低收盘，道指跌1.6%；英伟达财报后，周三早盘纳指100期货涨约1.4%。美国10年期国债收益率回落约3个基点至5.10%。黄金收于2025年9月以来最弱水平，亚洲早盘一度跌至约3,825美元；布油收于93.14美元。",
+      "why": "高利率环境下“避险资产黄金也在跌”值得思考：可以从实际利率高企、市场转向持有现金两个角度去解释，这类跨资产问题在资管和市场类岗位面试里很常见。",
+      "source": "Saxo",
+      "url": "https://www.home.saxo/en-hk/content/articles/macro/asia-market-quick-take--18-november-2026-18112026"
     },
     {
       "tag": "AI",
-      "title": "美国新规堵住AI算力“远程访问”漏洞",
-      "summary": "美国商务部发布临时规则：如果境外数据中心可能为中国等受限国家的企业提供算力，向其出口AI芯片和服务器须申请许可，规模门槛约相当于750块H100。马来西亚、新加坡、印尼、泰国和巴西被列为转运风险较高、需额外许可的国家。现有运营商须在规则生效后90天内取得许可，拜登时期的“AI扩散规则”同时废止。",
-      "why": "这是“技术地缘政治影响商业模式”的典型案例，适合用在咨询案例面试里讨论东南亚数据中心投资和云服务的合规成本。",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/"
+      "title": "OpenAI发布GPT-6.2 Astra，主打专业工作",
+      "summary": "OpenAI推出面向复杂专业工作的GPT-6.2 Astra和面向日常使用的GPT-6.2 Sol。Astra专门训练过按法律、销售、金融和会计行业惯例生成幻灯片、表格和文档，还能照着已有模板复刻版式。API价格比上一代Astra低20%；早期测试方Basis称长周期会计任务平均用时缩短50%。此前计划10月发布的GPT-6.1 Astra因内部测试未达标被取消。",
+      "why": "做PPT和Excel模型正是分析师岗的入门工作，这类工具会抬高对新人的要求：面试时与其强调“会做表”，不如强调你怎么判断和检查模型输出。",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/11/17/openai-rolls-out-gpt-6-2-astra-for-professional-work-and-gpt-6-2-sol-for-everyday-work"
     },
     {
       "tag": "金融",
-      "title": "美联储：AI成金融体系头号风险",
-      "summary": "美联储半年度《金融稳定报告》显示，纽约联储调查的市场人士中有87%把AI列为风险，春季时这一比例为50%。截至10月，为AI算力基础设施发行的债务已超过6,800亿美元，而2023年全年只有1,300亿；美国最大几家银行对科技、数据中心及相关融资主体的风险敞口接近1万亿美元，对冲基金杠杆也创下2013年有记录以来的新高。",
-      "why": "银行、资管和评级岗的面试常问“当前最大的系统性风险是什么”，可以引用“循环融资”和表外租赁承诺这两点来回答，比泛泛地说“AI泡沫”更具体。",
-      "source": "Stock Analysis（转述美联储报告）",
-      "url": "https://stockanalysis.com/news/fed-financial-stability-report-ai-risk-november-2026/"
-    },
-    {
-      "tag": "就业",
-      "title": "英国失业率降至4.6%，但招聘明显降温",
-      "summary": "英国统计局今早公布，7–9月失业率为4.6%，好于预期的4.7%；不含奖金的薪资增速从3.7%放缓至3.5%。另一方面，10月PAYE受雇人数减少3.4万，8–10月职位空缺降至69万，是2014年以来非疫情时期的最低水平，10月申领失业救济人数增加3.3万。统计局提示，失业率下降部分源于调查样本调整。",
-      "why": "岗位空缺持续减少说明今年英国求职竞争更激烈，投递时要更早，也要更依赖内推和networking；这组“失业率好看、其他指标转弱”的数据也很适合做面试里的宏观谈资。",
-      "source": "ActionForex（英国统计局数据）",
-      "url": "https://www.actionforex.com/live-comments/661129-uk-unemployment-falls-to-4-6-but-payroll-losses-and-weaker-hiring-tell-different-story/"
-    },
-    {
-      "tag": "经济",
-      "title": "沃什讲话避谈利率，市场仍押注12月加息",
-      "summary": "美联储主席沃什周一的讲话以AI为主，没有给出货币政策指引，市场把这解读为“没有更鹰”，美债短端收益率随之回落：2年期跌3.1个基点至4.821%，10年期报5.117%。克利夫兰联储主席哈马克表示支持小步、渐进加息，期货市场仍完全定价12月加息。",
-      "why": "读懂“央行沉默也是信号”，就能在面试里解释为什么一场没提利率的讲话也会让收益率曲线变陡。",
-      "source": "Newsquawk",
-      "url": "https://www.newsquawk.com/headlines/us-market-wrap---16th-november-2026-risk-off-trade-as-tech-rout-resumes-supporting-havens-"
+      "title": "欧美大行AI裁员潮：巴克莱拟裁约5,000人",
+      "summary": "巴克莱计划2026年裁员约5,000人，约占员工总数5%，其中六成在支持部门，公司称并非都由AI直接导致。汇丰英国财富管理业务可能削减约一半管理和专业岗位；摩根大通CFO表示AI推进期间尽量不新增人手，高盛也将控制人员增长。分析人士指出，目前AI带来的主要是降本，而直接增收的证据还很少；招聘需求正转向AI、软件工程和数据类岗位。",
+      "why": "投银行岗时，把你的Econ and Data Science背景放到前面讲，比如能用Python或SQL做分析、懂模型风险，比只讲金融知识更贴合银行正在扩招的方向。",
+      "source": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/72a23314-948e-4199-bb12-bf84c28cd1a7"
     },
     {
       "tag": "国际",
-      "title": "特朗普亚洲行：马尼拉之后转赴深圳",
-      "summary": "特朗普周二在马尼拉东盟峰会期间与日本、印度、澳大利亚领导人讨论印太安全，并与泰国签署贸易协议；周三对菲律宾进行国事访问后飞往深圳出席APEC。周四他将与习近平、普京举行三方会晤，白宫称重点是核不扩散，伊朗问题也会谈到，乌克兰问题据报不在议程上。",
-      "why": "关注会后有没有关税或出口管制方面的表态，这会直接影响你对亚洲供应链、新兴市场资产的判断，也是咨询面试里讨论地缘风险的好素材。",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/"
+      "title": "普京抵达深圳，美中俄明日首次三方会晤",
+      "summary": "普京周二抵达深圳出席APEC，这是他2017年以来首次亲自参加APEC峰会。美中俄首次三方会晤定于周四（11月19日）举行，克宫称会先谈经济合作，再谈国际政治；另有普特双边会晤在筹备中。乌克兰问题是否上桌仍不明确：白宫11月13日称不会讨论，特朗普11月16日又表示会谈。",
+      "why": "可以关注会后在核军控、伊朗、乌克兰和对华关税上的表态，这些会直接影响油价、欧洲防务股和亚洲供应链，是咨询和投资面试里很好用的时事素材。",
+      "source": "Kyiv Post",
+      "url": "https://www.kyivpost.com/post/90410"
     },
     {
       "tag": "国际",
-      "title": "克宫否认同意欧洲加入俄乌谈判",
-      "summary": "克宫助理乌沙科夫称，俄方从未同意欧洲参加下一轮乌克兰和谈，与美国特使威特科夫和库什纳会见普京后的说法相矛盾。他表示目前讨论的仍是俄、乌、美三方形式，下一轮日期未定。欧洲理事会主席科斯塔则表示，欧洲谈判团队将包括英、法、德、意、波及欧盟机构。",
-      "why": "和谈进展反复不定，会影响欧洲能源、防务股和欧元走势；跟踪“谁坐上谈判桌”有助于你理解英国在欧洲安全事务中的角色。",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/11/16/kremlin-aide-denies-russia-agreed-to-include-europe-in-ukraine-peace-talks-a94279"
+      "title": "伊朗无人机袭击巴林，美军空袭格什姆岛",
+      "summary": "伊朗革命卫队周二称用无人机袭击了巴林谢赫伊萨空军基地的美军雷达，这是五天内第三次袭击巴林，无人机均被拦截。数小时后美军空袭伊朗格什姆岛的导弹发射场，科威特当晚也报告遭到无人机袭击，均未报告伤亡。霍尔木兹海峡航运仍受严重干扰，和平协议依然遥遥无期。",
+      "why": "这是油价维持在90美元以上的直接背景，可以把“地缘冲突→油价→英国燃油价格→CPI”这条传导链和今天的英国通胀数据串起来讲。",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain"
     },
     {
       "tag": "全球健康",
-      "title": "Menlo：医疗AI支出一年增长2.5倍",
-      "summary": "Menlo Ventures对550名美国医疗和生命科学高管的调查显示，2026年医疗AI支出达到37亿美元，是法律和金融两个行业之和以上。生命科学领域的AI支出增长23倍至7亿美元，临床辅助工具增长5.5倍至5.5亿美元；保险方把事前授权列为AI头号优先事项（82%）。",
-      "why": "这为Global Health Management背景提供了现成的行业数据：面试医疗咨询或健康科技岗位时，可以讨论支付方和医院的“AI编码军备竞赛”如何推高医疗成本。",
-      "source": "GlobeNewswire（Menlo Ventures新闻稿）",
-      "url": "https://www.globenewswire.com/news-release/2026/11/16/3403313/0/en/menlo-ventures-2026-state-of-ai-in-healthcare-report-healthcare-ai-spending-hits-3-7b-up-2-5x-as-growth-shifts-from-paperwork-to-drug-discovery-and-patient-care.html"
+      "title": "WHO：173国有耐药计划，仅22%钱和执行到位",
+      "summary": "WHO在世界抗微生物药物耐药性认识周前发布183个国家的自评调查：已有173国制定AMR国家行动计划（2017年只有79国），但只有22%的国家同时具备资金并全面落实。仅36%的国家有能检测目标细菌和真菌的国家参比实验室，离2030年80%的目标差距很大；2023年全球约每6例实验室确诊的细菌感染中就有1例耐药。",
+      "why": "“有计划没钱落实”正是卫生经济学的核心问题，适合作为Global Health Management面试或论文的案例：可以从融资缺口、诊断能力投资的成本效益两个角度展开。",
+      "source": "WHO",
+      "url": "https://www.who.int/news/item/16-11-2026-more-countries-have-antimicrobial-resistance-plans-but-patients-still-lack-testing-and-treatment"
     },
     {
       "tag": "全球健康",
-      "title": "美国料本周失去麻疹消除地位",
-      "summary": "泛美卫生组织专家组已于11月10–13日完成审查，预计本周宣布取消美国保持了26年的麻疹消除地位。美国2026年已报告超过5,200例，为1991年以来最多，96%的感染者未接种疫苗；2025–26学年有18个州的MMR接种率低于90%。",
-      "why": "这是疫苗犹豫和公共卫生信任下降造成经济与健康代价的典型案例，可以用在卫生政策或卫生经济学相关的面试和论文讨论中。",
-      "source": "fundsforNGOs News",
-      "url": "https://news.fundsforngos.org/2026/11/17/paho-expected-to-revoke-us-measles-elimination-status-after-5200-cases"
+      "title": "英国续约Palantir的NHS数据平台至2029年",
+      "summary": "英国政府没有行使2027年春季的解约条款，而是把Palantir运营NHS联邦数据平台的合同延长两年，到2029年3月结束，并将于2027年下半年启动约18个月的替代采购，强调互操作性、多供应商和英国本土能力。议会科学技术委员会主席称决定“令人深感失望”；数据显示NHS英格兰宣称受益的137家信托中，有29家几乎或从未使用该平台。",
+      "why": "这是公共部门数字化采购和“供应商锁定”的现实案例，面试医疗咨询或公共部门项目时，可以用它讨论数据平台的采纳率、治理和退出成本。",
+      "source": "Dataconomy",
+      "url": "https://dataconomy.com/2026/11/17/uk-to-end-palantirs-nhs-data-contract-in-2029"
     }
   ],
-  "action": "用1小时整理今早的英国劳动力市场数据：把失业率、PAYE受雇人数、职位空缺、薪资增速四个数字做成一页笔记，再写一段90秒的口述回答——“英国就业在升温还是降温？对英国央行下一步决策意味着什么？”——作为金融和咨询面试中的市场问题素材。",
+  "action": "用1小时做一个小练习：从英国统计局网站下载最近12个月的CPI、核心CPI和服务业CPI数据，用Python（pandas + matplotlib）画一张对比图，再写三句解读——总体通胀为什么升、核心为什么稳、这对英国央行意味着什么。把图和解读放进作品集或LinkedIn，同时练了数据技能和宏观表达。",
   "watch": [
     {
-      "date": "11/17",
-      "event": "英伟达公布三季报（美股盘后），市场预期营收约1,088–1,090亿美元"
-    },
-    {
-      "date": "11/18",
-      "event": "英国10月CPI；Anthropic IPO预计定价"
+      "date": "11/19",
+      "event": "Anthropic预计在纳斯达克上市交易（代码ANT），发行价区间70–78美元"
     },
     {
       "date": "11/19",
-      "event": "Anthropic预计在纳斯达克开始交易；特朗普、习近平、普京在深圳举行三方会晤"
+      "event": "特朗普、习近平、普京在深圳举行首次三方会晤"
+    },
+    {
+      "date": "11/19",
+      "event": "沃尔玛、阿里巴巴、拼多多等公布季度财报"
     }
   ]
 }
