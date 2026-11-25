@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-25",
+  "weekday": "周三",
+  "updated": "2026-11-25 07:55 伦敦时间",
+  "headline": "芯片股重挫、道指首次收在5万点上方，Anthropic跌破发行价；赛诺菲410亿美元收购Insmed；Gavi订购150万剂埃博拉疫苗。",
+  "items": [
+    {
+      "tag": "投资",
+      "title": "芯片股暴跌7.9%，道指首次收在5万点上方",
+      "summary": "11月24日美股分化：道指涨0.85%至50,018.70点，首次收在5万点上方；标普500跌0.50%至7,201点，纳指跌1.48%至23,734点。费城半导体指数大跌7.88%，30只成分股全线下跌，英伟达在前一日暴涨31%后回落5.86%至155.38美元，AMD跌8.86%。",
+      "why": "面试可以拿“资金从科技股轮动到道指成分股”当市场观点的例子：先讲指数分化的数据，再讲你怎么看AI估值的可持续性。",
+      "source": "The Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-today-nov-24-nvidia-gives-back-usd240-billion-in-market-value-despite-wall-street-upgrade-signaling-29-upside/"
+    },
+    {
+      "tag": "投资",
+      "title": "Anthropic上市第四天跌破83美元发行价",
+      "summary": "Anthropic（ANT）11月24日收跌约6.5%至81.90美元，上市第四个交易日首次跌破83美元的IPO发行价；盘中一度跌至76美元左右。分析认为，这与当天芯片和AI板块的整体抛售同步。",
+      "why": "这是讲“IPO定价与上市后表现”的现成案例：可以练习解释发行价、首日估值和后续回落各自说明了什么，适合投行或资管面试。",
+      "source": "TradingKey",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262320747-us-stock-dow-rises-nasdaq-falls-as-nvidia-and-chip-slide-tradingkey"
+    },
+    {
+      "tag": "投资",
+      "title": "比特币跌破6万美元，金银同步回落",
+      "summary": "比特币24日跌约2.8%至5.95万美元附近，较一个月前跌约25%；11月比特币ETF净流出约47.1亿美元，创纪录，恐惧与贪婪指数降到13。黄金跌约2.2%至每盎司3,556美元附近，白银跌约5%；布伦特原油从三个月低点反弹2.3%，收于91.40美元。",
+      "why": "把加密资产、黄金、原油放在一起看，可以练习判断“避险”和“风险偏好”信号是否一致，这是宏观或大宗商品岗位常考的思路。",
+      "source": "Toobit 市场日报",
+      "url": "https://www.toobit.com/en-US/news/crypto-market-daily-recap-24-nov-2026"
+    },
+    {
+      "tag": "金融",
+      "title": "赛诺菲以410亿美元现金收购Insmed",
+      "summary": "赛诺菲11月24日宣布以每股175美元现金收购美国生物科技公司Insmed，股权价值约410亿美元，较未受影响股价溢价约46%。交易用债务和现金支付，预计2027年上半年完成、2028年底前增厚每股收益；摩根大通和高盛分别担任双方顾问。市场普遍认为，此举是为了应对王牌药Dupixent在2030年代初的专利到期。",
+      "why": "这是今年医药业最大并购之一，同时连着金融和健康两条线：适合练一份“交易逻辑+估值溢价+融资结构”的一页纸分析。",
+      "source": "Insmed/Sanofi 新闻稿（SEC 8-K）",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001104506/000114036126045364/ef20086426_ex99-1.htm"
+    },
+    {
+      "tag": "金融",
+      "title": "美国银行业考虑从“封堵”转向“认识你的AI代理”",
+      "summary": "据《美国银行家》报道，美国银行目前默认拦截外部AI代理，但业内承认这种做法难以长期维持，正在讨论类似KYC的“认识你的代理”（know your agent）流程，以便安全地与机器客户打交道。这是继昨天路透报道银行收紧AI代理权限后的另一面。",
+      "why": "面试金融科技、风控或咨询岗位时，可以把“KYC延伸到AI代理”作为一个具体的行业趋势来讨论，说明你懂合规和技术的交汇点。",
+      "source": "American Banker",
+      "url": "https://www.americanbanker.com/news/banks-plan-move-from-blocking-ai-agents-to-working-with-them"
+    },
+    {
+      "tag": "经济",
+      "title": "美国消费者信心跳升，12月加息几成定局",
+      "summary": "世界大型企业联合会公布11月美国消费者信心指数升至103.3，比上月高出11.4点，远超约92的预期。纽约联储主席威廉姆斯表态支持12月加息，CME数据显示市场对12月加息25个基点的定价约为95%–96%；10年期美债收益率约4.90%。今天美国还将公布10月PCE物价和三季度GDP修正值。",
+      "why": "今天的PCE数据会直接影响12月9日美联储决议的预期，建议记下公布值与预期的差距，面试时可以用来讲“数据如何改变利率路径”。",
+      "source": "CappNotes 收盘回顾",
+      "url": "https://cappnotes.substack.com/p/closing-look-tuesday-november-24"
+    },
+    {
+      "tag": "AI",
+      "title": "Anthropic推出Claude Ship代码审查代理",
+      "summary": "Anthropic 23日发布Claude Ship，让AI代理在GitHub上自动审查、修复和批准代码合并请求：代码审查功能正式上线，另外两个代理处于公测阶段，面向Team和Enterprise用户。公司称内部合并的代码请求数量在6月到9月间翻了一倍多；同日OpenAI也把GPT-6.2 Sol推送给ChatGPT付费用户。",
+      "why": "数据科学岗位越来越看重“会用AI代理写和审代码”：可以在GitHub上用AI辅助完成一个小项目，并在简历里写清楚你负责的判断部分。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+    },
+    {
+      "tag": "全球健康",
+      "title": "Gavi拟采购150万剂本迪布焦型埃博拉疫苗",
+      "summary": "据路透报道，全球疫苗免疫联盟Gavi计划在证明安全有效的前提下，采购最多150万剂由牛津大学和印度血清研究所研发的本迪布焦型埃博拉实验疫苗，用于刚果（金）。这一疫情已造成超过5,700人死亡，目前没有获批的疫苗或疗法；Gavi已投入4,000万美元加速研发，并呼吁WHO尽快明确“扩大使用”的监管路径。",
+      "why": "这是卫生经济学里“预先采购承诺”的典型案例：可以研究它怎样在疫苗获批前分担研发和需求风险，作为Global Health Management面试素材。",
+      "source": "Reuters（CNBC Africa转载）",
+      "url": "https://www.cnbcafrica.com/2026/global-vaccine-group-aims-to-buy-1-5-million-doses-of-new-ebola-bundibugyo-shot-for-congo"
+    },
+    {
+      "tag": "国际",
+      "title": "泽连斯基呼吁尽快举行乌俄欧美四方和谈",
+      "summary": "泽连斯基11月24日呼吁尽快召开乌克兰、俄罗斯、欧洲和美国四方和谈。美国特使库什纳此前在11月19日柏林会议后称，莫斯科与特朗普已同意把欧洲纳入多边谈判框架；但普京本月早些时候表示，不会在领土要求上让步，也拒绝外国维和部队。",
+      "why": "和谈进展会直接影响欧洲能源价格、国防股和英国通胀预期，关注时可以把它和英国央行的通胀预测放在一起看。",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261124-zelensky-urges-four-way-peace-talks-with-russia-europe-and-us-as-soon-as-possible"
+    },
+    {
+      "tag": "国际",
+      "title": "美国拟公布针对16个经济体的301调查结果",
+      "summary": "据TradingKey汇总的消息，美国贸易代表办公室正准备公布针对16个经济体“产能过剩”问题的301调查结果。报道提到的关税上限为：欧盟、日本、韩国15%，马来西亚19%；中国为20%，前提是2027年1月10日到期的贸易休战获得延长。",
+      "why": "贸易政策是国际商务和咨询案例的常见题目，可以练习分析这些关税上限对一个出口型行业（如汽车或半导体）的成本和供应链影响。",
+      "source": "TradingKey",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262320747-us-stock-dow-rises-nasdaq-falls-as-nvidia-and-chip-slide-tradingkey"
+    }
+  ],
+  "action": "用60–90分钟为“赛诺菲收购Insmed”写一页交易分析：交易理由（Dupixent专利到期）、46%溢价是否合理、债务融资对赛诺菲资产负债表的影响、你认为的主要风险，然后对照新闻稿检查数字。这份笔记可以直接用作投行、咨询或医药行业面试素材。",
+  "watch": [
+    {
+      "date": "11/25",
+      "event": "美国公布三季度GDP第二次估算、10月PCE物价和美联储褐皮书；11/26感恩节美股休市，11/27提前收盘"
+    },
+    {
+      "date": "12/03",
+      "event": "英伟达CEO黄仁勋出席美国参议院听证会，议题为芯片出口管制"
+    },
+    {
+      "date": "12/09",
+      "event": "美联储公布12月议息决议，市场对加息25个基点的定价约95%–97%"
+    },
+    {
+      "date": "12/17",
+      "event": "英国央行公布12月利率决议和会议纪要（11月已加息至4.0%）"
+    }
+  ]
+}
