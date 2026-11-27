@@ -1,0 +1,111 @@
+{
+  "date": "2026-11-27",
+  "weekday": "周五",
+  "updated": "2026-11-27 07:48 伦敦时间",
+  "headline": "欧元区提名德科斯接任拉加德；贝利称英国通胀峰值或低于5%预测；英伟达据报暂停向东南亚四国服务器伙伴发货。",
+  "items": [
+    {
+      "tag": "经济",
+      "title": "德科斯获提名接任欧洲央行行长",
+      "summary": "欧元区领导人11月26日同意推荐国际清算银行总经理、前西班牙央行行长德科斯接替拉加德，拉加德将于2027年2月7日提前卸任。布恩和布伦纳迈尔同时获提名进入执委会，正式任命预计12月由欧洲理事会完成。欧委会预测欧元区2026年通胀3.2%，存款利率现为2.5%。",
+      "why": "面试被问欧洲宏观时，可以用“新行长+通胀高于目标+执委会大换血”三点说明ECB政策走向的不确定性。",
+      "source": "Xinhua",
+      "url": "https://english.news.cn/europe/20261127/c971fc6341d646478eb8227d3d2fe4fe/c.html"
+    },
+    {
+      "tag": "经济",
+      "title": "贝利：英国通胀峰值可能低于5%",
+      "summary": "英国央行行长贝利对议员表示，如果油价维持当前水平，明年通胀峰值可能低于央行5%的预测。自11月预测以来油价已回落约10%，英央行本月刚把利率上调25个基点至4%。",
+      "why": "这是理解12月17日英央行决议的关键线索：准备一段话说明能源价格如何传导到通胀预期和加息节奏。",
+      "source": "CPA UK Business News",
+      "url": "https://cpa.co.uk/uk-business-news-today-26-november-2026-economy-markets-insolvencies/"
+    },
+    {
+      "tag": "就业",
+      "title": "英国净移民降至7.7万人，近30年最低",
+      "summary": "英国统计局数据显示，截至2026年6月的一年净移民为7.7万人，同比下降62%，为1997年以来（不含疫情）最低，远低于预算责任办公室12万人的预测。期间约73.8万人入境、66.1万人离境。",
+      "why": "劳动力供给收紧会影响英国工资和雇主招聘策略；关注雇主担保类岗位时可把它当作背景，也是英国宏观面试题的好素材。",
+      "source": "ONS（经CPA汇总）",
+      "url": "https://www.ons.gov.uk/releases/longterminternationalmigrationprovisionalyearendingjune2026"
+    },
+    {
+      "tag": "投资",
+      "title": "美股休市日欧股大涨，比特币反弹",
+      "summary": "感恩节美股休市，欧洲斯托克50指数上涨约2.1%，富时100收涨1.46%至10,579点。比特币回升约3.9%至6.05万美元附近，黄金约3,571美元；美股周五仅交易半天。",
+      "why": "可以练习解释“流动性稀薄的节假日行情”为何波动放大、信号意义有限，这是市场类面试的常见追问。",
+      "source": "Hyperdash",
+      "url": "https://hyperdash.com/news/european-stocks-rally-as-us-markets-close-for-thanksgiving-oil-jumps-on-red-sea-strike"
+    },
+    {
+      "tag": "投资",
+      "title": "油价两天涨逾5美元，铜价单月或跌17%",
+      "summary": "受胡塞武装袭击沙特设施影响，布伦特原油两天内上涨超过5美元，OPEC+将于11月29日开会。与此同时铜价在本月有望下跌约17%，美国10年期国债收益率约4.86%。",
+      "why": "油价上涨、铜价下跌同时出现，可以用来说明“供给冲击”和“需求走弱”两种信号怎么区分，是大宗商品面试题的好例子。",
+      "source": "Saxo",
+      "url": "https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---nasdaq-briefly-hits-bear-market-territory-before-paring-losses---26-november-2026-26112026"
+    },
+    {
+      "tag": "AI",
+      "title": "英伟达据报暂停向东南亚四国伙伴发货",
+      "summary": "据报道，英伟达要求服务器合作伙伴暂停向马来西亚、新加坡、泰国和印尼发货；此前有贷款方因美国新出口规则暂停了与中国云厂商相关的融资。穆迪将英伟达评级展望从正面下调至稳定。",
+      "why": "AI算力受地缘政治约束是咨询和投行TMT组的热门话题，可以整理成“出口管制→算力供给→估值”的分析框架。",
+      "source": "The Neuron",
+      "url": "https://theneuron.ai/digest/everything-that-happened-in-ai-today-november-27-2026"
+    },
+    {
+      "tag": "AI",
+      "title": "Anthropic用AI代理把API迁移到Rust",
+      "summary": "Anthropic披露，用Claude代理把Messages API从Python迁移到Rust，代理在真实请求上比对新旧实现并修复差异，全程有人工审核。迁移后单次请求处理器用量降低约70%，首个token的中位响应时间缩短20%。",
+      "why": "说明AI代理已能承担大型工程改造；数据科学求职时，展示“会用AI工具+能验证结果”比单纯会写代码更有说服力。",
+      "source": "The Neuron",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-26-2026/"
+    },
+    {
+      "tag": "金融",
+      "title": "银行借AI裁员，但收益仍难量化",
+      "summary": "巴克莱预计到2026年底裁员约5,000人，摩根大通称AI让部分部门所需人手减少30%–40%。麦肯锡认为AI相关开支可能达到银行人力成本的20%，但德勤调查显示只有18%的金融机构已从AI获得收入。",
+      "why": "面试银行或咨询时可以引用“成本端见效、收入端未证实”这一矛盾，并把自己定位为能衡量AI投资回报的人。",
+      "source": "AIM Media House",
+      "url": "https://aimmediahouse.com/banking/banks-are-cutting-jobs-for-ai-they-still-cant-prove-its-making-them-money"
+    },
+    {
+      "tag": "全球健康",
+      "title": "WHO首份全球健康不平等监测图谱",
+      "summary": "WHO基于161个成员国自报数据发布首份健康不平等监测能力图谱：89%的国家在卫生战略中承诺解决不平等，但只有65%设有使用不平等数据的部门，只有五分之一在过去十年发布过专门报告。收入、教育、残障等维度的数据明显不足。",
+      "why": "Global Health Management求职的直接素材：数据基础设施和分析能力缺口正是卫生数据分析岗位的需求来源。",
+      "source": "WHO",
+      "url": "https://www.who.int/news/item/24-11-2026-countries-face-critical-gaps-in-health-inequality-monitoring-systems"
+    },
+    {
+      "tag": "国际",
+      "title": "库什纳：俄乌和谈卡在领土问题",
+      "summary": "美国特使库什纳在播客访谈中表示，俄乌谈判已在领土问题上陷入僵局，并称2月至9月双方虽保持接触，但都缺乏实质让步。他否认美方向泽连斯基施压，把美国定位为谈判方和援助方。",
+      "why": "和谈前景直接影响欧洲能源价格和防务股，分析英欧宏观时要把它当作关键变量。",
+      "source": "UNIAN（经Ukraine Today转载）",
+      "url": "https://ukrainetoday.org/kushner-accused-ukraine-of-delaying-negotiations-due-to-attack-on-putins-residence/"
+    },
+    {
+      "tag": "就业",
+      "title": "CompTIA：数据能力成AI落地前提",
+      "summary": "CompTIA 11月研究简报指出，AI技能已取代网络安全成为企业最想要的技能，超过一半的受访企业计划增加数据技能培训预算。企业自评在数据挖掘上能力最弱，只有40%认为自己“高度胜任”，数据治理被视为快速增长的技能。",
+      "why": "简历和面试中可以突出数据治理、数据管理类经历，这些是AI项目里供给不足的能力。",
+      "source": "CompTIA",
+      "url": "https://www.comptia.org/en/resources/research/rising-demands-for-data-skills-november-2026/"
+    }
+  ],
+  "action": "用1小时写一段约2分钟的口述“本周宏观观点”：英央行加息到4%但贝利暗示通胀峰值偏低、ECB换帅、油价反弹，各用一句话说明对英镑、欧元和债券收益率的影响，录音回听一遍，作为金融/咨询面试的“最近关注什么市场新闻”标准答案。",
+  "watch": [
+    {
+      "date": "11/29",
+      "event": "OPEC+开会讨论产量政策（油价近两天大涨后）"
+    },
+    {
+      "date": "11/30",
+      "event": "WHO举办《健康不平等监测图谱》发布网络研讨会，CET 13:00–14:30（伦敦12:00–13:30），可在线报名"
+    },
+    {
+      "date": "12/17",
+      "event": "伦敦地铁RMT工会新一轮24小时罢工（12/19再罢工一次），出行和面试要提前安排"
+    }
+  ]
+}

@@ -1,107 +1,111 @@
 {
-  "date": "2026-11-26",
-  "weekday": "周四",
-  "updated": "2026-11-26 07:58 伦敦时间",
-  "headline": "美股盘中暴跌后V型收复，核心PCE超预期、12月加息概率近98%；美国拟对14个经济体加征301关税；胡塞武装称袭击沙特炼油厂。",
+  "date": "2026-11-27",
+  "weekday": "周五",
+  "updated": "2026-11-27 07:48 伦敦时间",
+  "headline": "欧元区提名德科斯接任拉加德；贝利称英国通胀峰值或低于5%预测；英伟达据报暂停向东南亚四国服务器伙伴发货。",
   "items": [
     {
-      "tag": "投资",
-      "title": "美股上演V型反转，道指抹平1,100点跌幅",
-      "summary": "11月25日美股盘中一度急跌：标普500最多跌3.2%，纳指最多跌4.6%，VIX一度突破30。尾盘大幅收复，道指收涨0.33%至50,182.95点，标普500跌0.25%至7,182.78点，纳指跌0.62%至23,585.80点；英伟达跌3.91%，11月累计跌约27%，Anthropic涨1.07%至82.79美元，仍略低于83美元发行价。小盘股和材料板块领涨，韩国Kospi当天大跌6.16%。",
-      "why": "面试被问“最近市场怎么了”时，可以用“盘中跌幅vs收盘跌幅”说明情绪波动和资金抄底同时存在，再点出AI龙头的月度回撤，显示你在跟踪市场。",
-      "source": "CappNotes 收盘回顾",
-      "url": "https://cappnotes.substack.com/p/closing-look-wednesday-november-25"
+      "tag": "经济",
+      "title": "德科斯获提名接任欧洲央行行长",
+      "summary": "欧元区领导人11月26日同意推荐国际清算银行总经理、前西班牙央行行长德科斯接替拉加德，拉加德将于2027年2月7日提前卸任。布恩和布伦纳迈尔同时获提名进入执委会，正式任命预计12月由欧洲理事会完成。欧委会预测欧元区2026年通胀3.2%，存款利率现为2.5%。",
+      "why": "面试被问欧洲宏观时，可以用“新行长+通胀高于目标+执委会大换血”三点说明ECB政策走向的不确定性。",
+      "source": "Xinhua",
+      "url": "https://english.news.cn/europe/20261127/c971fc6341d646478eb8227d3d2fe4fe/c.html"
     },
     {
       "tag": "经济",
-      "title": "美国核心PCE高于预期，三季度GDP上修至4.3%",
-      "summary": "美国10月PCE物价同比3.8%，符合预期；核心PCE同比3.3%，比预期高0.1个百分点。三季度GDP年化增速由3.4%上修至4.3%，个人收入增0.7%，首次申领失业金人数降至18.9万。数据公布后，CME FedWatch显示12月9日加息25个基点的概率约97.8%，10年期美债收益率回落至约4.85%。",
-      "why": "“经济强+通胀粘”正是央行继续加息的典型组合：可以练习用这组数据解释为什么美联储在增长不差的情况下还要收紧，这是宏观类面试的高频题。",
-      "source": "Vista Partners 收盘报告",
-      "url": "https://vistapglobal.com/stocks-close-mixed-on-wednesday-november-25-2026-as-hot-pce-inflation-new-tariff-plans-and-an-ai-sell-off-test-wall-street-amd-eprx-googl-modd-nvda-ser-spcx-vix/"
-    },
-    {
-      "tag": "国际",
-      "title": "美国拟对14个经济体加征301“产能过剩”关税",
-      "summary": "美国贸易代表办公室11月25日公布14项301调查的拟议关税：中国最高20%（叠加在2018年301关税之上），欧盟、日本、韩国、瑞士、台湾最高15%，印度25%，新加坡20%，越南最高35%，孟加拉、柬埔寨、印尼、马来西亚、泰国最高18%；墨西哥和挪威暂未作出认定。钢铝、汽车、半导体等已受232条款约束的商品除外。书面意见截止2027年1月5日，听证会1月25日开始，生效日期尚未确定。",
-      "why": "可以挑一个行业（如越南35%对应的服装或电子组装）做一个小案例：估算关税对到岸成本和供应链转移的影响，这正是咨询和国际商务面试爱考的题型。",
-      "source": "Holland & Knight",
-      "url": "https://www.hklaw.com/en/insights/publications/2026/11/ustr-proposes-tariffs-following-14-section-301"
-    },
-    {
-      "tag": "国际",
-      "title": "胡塞武装称袭击沙特拉斯坦努拉炼油厂",
-      "summary": "也门胡塞武装发言人11月25日称袭击了沙特拉斯坦努拉炼油厂并引发火灾，称其日产能55万桶；沙特领导的联军则表示在当地上空拦截并摧毁了4架无人机，未确认设施被击中。此前一天，位于利雅得的沙特公共投资基金总部大楼遭袭，11人受伤。受此影响，布伦特原油25日收涨3.51%至94.61美元。",
-      "why": "海湾能源设施风险会直接推高油价和英国通胀预期：可以把它和英国央行的加息路径联系起来，作为“地缘政治如何传导到利率”的面试例子。",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/gulf/2026/11/26/saudi-arabia-intercepts-wave-of-retaliatory-houthi-attacks/"
-    },
-    {
-      "tag": "金融",
-      "title": "特斯拉与SpaceX合并谈判，目标年底前签约",
-      "summary": "据英国《金融时报》报道，特斯拉和SpaceX各自成立由独立董事组成的特别委员会，商谈一项全股票合并，合并后估值约3.5万亿美元，将是史上最大并购。SpaceX由摩根士丹利和高盛担任顾问，特斯拉由Evercore担任顾问；双方希望在年底前签约，但知情人士称协议尚未接近达成。任何交易都需要特斯拉另开特别股东大会，并获得超过半数已发行股份投票支持。",
-      "why": "这是讲“关联方交易与公司治理”的绝佳案例：可以准备特别委员会为何必要、换股比例如何定、少数股东如何保护这三个问题，适合投行或并购岗位面试。",
-      "source": "Electrek（援引《金融时报》）",
-      "url": "https://electrek.co/2026/11/24/tesla-spacex-merger-year-end-deadline-new-congress/"
-    },
-    {
-      "tag": "投资",
-      "title": "摩根大通：2027年AI相关发债将达4,500亿美元",
-      "summary": "摩根大通策略师预计，2027年企业将通过投资级债券为AI资本开支融资约4,500亿美元，高于今年AI相关公司的3,680亿美元；杠杆融资另增约650亿美元。他们预计2027年AI相关资本开支接近翻倍至1.4万亿美元，2028年趋于平稳；2027–2031年间约151吉瓦的数据中心建设需要约7万亿美元。",
-      "why": "AI投资正从股权故事转向信用市场：面试资管、信用研究或银行岗位时，可以讨论巨额AI发债对信用利差和银行资产负债表意味着什么。",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/jpmorgan-sees-450b-in-ai-bond-issuance-in-2027-5051506"
-    },
-    {
-      "tag": "AI",
-      "title": "OpenAI用GPT-6设计蛋白质，实验验证可结合靶点",
-      "summary": "据The Neuron汇总，OpenAI展示了用GPT-6设计蛋白质的成果：其设计的蛋白在实验室中显示出与五个靶点结合的证据。同一天，诺华CEO纳拉西姆汉表示，AI可能把药物研发周期缩短约四年，但十年内不太可能治愈癌症。",
-      "why": "AI制药是医药咨询和卫生经济学的热门话题：可以思考“研发周期缩短四年”对新药净现值和定价的影响，做成一个简单的估值小练习。",
-      "source": "The Neuron",
-      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-25-2026/"
-    },
-    {
-      "tag": "全球健康",
-      "title": "非洲疾控与WHO：埃博拉应对需约16亿美元",
-      "summary": "非洲疾控中心与WHO发布修订版应对计划，估计2026年11月至2027年5月非洲埃博拉应对需要约15.76亿美元，目前未公布已到位金额。刚果（金）本迪布焦型疫情确诊已超过1.17万例、死亡超过5,700人，病死率约48.9%，伊图里和北基伍两省最严重。",
-      "why": "这是练习“卫生应急融资缺口”分析的好素材：可以按检测、治疗、疫苗、社区动员拆分预算，思考捐助方减少援助时如何排序，适合Global Health岗位面试。",
-      "source": "TASS",
-      "url": "https://tass.com/society/2224841"
+      "title": "贝利：英国通胀峰值可能低于5%",
+      "summary": "英国央行行长贝利对议员表示，如果油价维持当前水平，明年通胀峰值可能低于央行5%的预测。自11月预测以来油价已回落约10%，英央行本月刚把利率上调25个基点至4%。",
+      "why": "这是理解12月17日英央行决议的关键线索：准备一段话说明能源价格如何传导到通胀预期和加息节奏。",
+      "source": "CPA UK Business News",
+      "url": "https://cpa.co.uk/uk-business-news-today-26-november-2026-economy-markets-insolvencies/"
     },
     {
       "tag": "就业",
-      "title": "英国财务招聘两极化：高管岗升温，初级岗骤冷",
-      "summary": "据CPA汇总的SignalHire数据，2026年上半年英国企业对首席财务官的搜索增加55%，对财务总监的搜索增加115%；而较初级的会计类岗位搜索下降62%至88%。这反映雇主更愿意找能做判断的资深人才，基础性财务工作需求在收缩。",
-      "why": "求职财务方向时，简历和面试要突出分析、判断和跨部门沟通，而不只是记账或报表处理；能展示用AI或代码提升效率的项目会更有说服力。",
-      "source": "CPA UK Business News",
-      "url": "https://cpa.co.uk/uk-business-news-today-25-november-2026-economy-markets-insolvencies/"
+      "title": "英国净移民降至7.7万人，近30年最低",
+      "summary": "英国统计局数据显示，截至2026年6月的一年净移民为7.7万人，同比下降62%，为1997年以来（不含疫情）最低，远低于预算责任办公室12万人的预测。期间约73.8万人入境、66.1万人离境。",
+      "why": "劳动力供给收紧会影响英国工资和雇主招聘策略；关注雇主担保类岗位时可把它当作背景，也是英国宏观面试题的好素材。",
+      "source": "ONS（经CPA汇总）",
+      "url": "https://www.ons.gov.uk/releases/longterminternationalmigrationprovisionalyearendingjune2026"
     },
     {
-      "tag": "经济",
-      "title": "英国能源价格上限明年1月涨26%",
-      "summary": "英国能源监管机构Ofgem的价格上限将从2027年1月1日起上调26%，典型双燃料家庭年账单升至2,166英镑，增加443英镑。英国央行委员格林警告，若中东冲突令通胀居高不下，加息可能需要更快；英国通胀目前为3.6%，市场预计12月再次加息。",
-      "why": "能源账单上涨会推高明年初的CPI，进而影响英国央行12月17日的决议：可以提前写下你对“能源冲击+加息”组合的判断，用作英国宏观话题的面试素材。",
-      "source": "CPA UK Business News",
-      "url": "https://cpa.co.uk/uk-business-news-today-25-november-2026-economy-markets-insolvencies/"
+      "tag": "投资",
+      "title": "美股休市日欧股大涨，比特币反弹",
+      "summary": "感恩节美股休市，欧洲斯托克50指数上涨约2.1%，富时100收涨1.46%至10,579点。比特币回升约3.9%至6.05万美元附近，黄金约3,571美元；美股周五仅交易半天。",
+      "why": "可以练习解释“流动性稀薄的节假日行情”为何波动放大、信号意义有限，这是市场类面试的常见追问。",
+      "source": "Hyperdash",
+      "url": "https://hyperdash.com/news/european-stocks-rally-as-us-markets-close-for-thanksgiving-oil-jumps-on-red-sea-strike"
+    },
+    {
+      "tag": "投资",
+      "title": "油价两天涨逾5美元，铜价单月或跌17%",
+      "summary": "受胡塞武装袭击沙特设施影响，布伦特原油两天内上涨超过5美元，OPEC+将于11月29日开会。与此同时铜价在本月有望下跌约17%，美国10年期国债收益率约4.86%。",
+      "why": "油价上涨、铜价下跌同时出现，可以用来说明“供给冲击”和“需求走弱”两种信号怎么区分，是大宗商品面试题的好例子。",
+      "source": "Saxo",
+      "url": "https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---nasdaq-briefly-hits-bear-market-territory-before-paring-losses---26-november-2026-26112026"
+    },
+    {
+      "tag": "AI",
+      "title": "英伟达据报暂停向东南亚四国伙伴发货",
+      "summary": "据报道，英伟达要求服务器合作伙伴暂停向马来西亚、新加坡、泰国和印尼发货；此前有贷款方因美国新出口规则暂停了与中国云厂商相关的融资。穆迪将英伟达评级展望从正面下调至稳定。",
+      "why": "AI算力受地缘政治约束是咨询和投行TMT组的热门话题，可以整理成“出口管制→算力供给→估值”的分析框架。",
+      "source": "The Neuron",
+      "url": "https://theneuron.ai/digest/everything-that-happened-in-ai-today-november-27-2026"
+    },
+    {
+      "tag": "AI",
+      "title": "Anthropic用AI代理把API迁移到Rust",
+      "summary": "Anthropic披露，用Claude代理把Messages API从Python迁移到Rust，代理在真实请求上比对新旧实现并修复差异，全程有人工审核。迁移后单次请求处理器用量降低约70%，首个token的中位响应时间缩短20%。",
+      "why": "说明AI代理已能承担大型工程改造；数据科学求职时，展示“会用AI工具+能验证结果”比单纯会写代码更有说服力。",
+      "source": "The Neuron",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-26-2026/"
+    },
+    {
+      "tag": "金融",
+      "title": "银行借AI裁员，但收益仍难量化",
+      "summary": "巴克莱预计到2026年底裁员约5,000人，摩根大通称AI让部分部门所需人手减少30%–40%。麦肯锡认为AI相关开支可能达到银行人力成本的20%，但德勤调查显示只有18%的金融机构已从AI获得收入。",
+      "why": "面试银行或咨询时可以引用“成本端见效、收入端未证实”这一矛盾，并把自己定位为能衡量AI投资回报的人。",
+      "source": "AIM Media House",
+      "url": "https://aimmediahouse.com/banking/banks-are-cutting-jobs-for-ai-they-still-cant-prove-its-making-them-money"
+    },
+    {
+      "tag": "全球健康",
+      "title": "WHO首份全球健康不平等监测图谱",
+      "summary": "WHO基于161个成员国自报数据发布首份健康不平等监测能力图谱：89%的国家在卫生战略中承诺解决不平等，但只有65%设有使用不平等数据的部门，只有五分之一在过去十年发布过专门报告。收入、教育、残障等维度的数据明显不足。",
+      "why": "Global Health Management求职的直接素材：数据基础设施和分析能力缺口正是卫生数据分析岗位的需求来源。",
+      "source": "WHO",
+      "url": "https://www.who.int/news/item/24-11-2026-countries-face-critical-gaps-in-health-inequality-monitoring-systems"
+    },
+    {
+      "tag": "国际",
+      "title": "库什纳：俄乌和谈卡在领土问题",
+      "summary": "美国特使库什纳在播客访谈中表示，俄乌谈判已在领土问题上陷入僵局，并称2月至9月双方虽保持接触，但都缺乏实质让步。他否认美方向泽连斯基施压，把美国定位为谈判方和援助方。",
+      "why": "和谈前景直接影响欧洲能源价格和防务股，分析英欧宏观时要把它当作关键变量。",
+      "source": "UNIAN（经Ukraine Today转载）",
+      "url": "https://ukrainetoday.org/kushner-accused-ukraine-of-delaying-negotiations-due-to-attack-on-putins-residence/"
+    },
+    {
+      "tag": "就业",
+      "title": "CompTIA：数据能力成AI落地前提",
+      "summary": "CompTIA 11月研究简报指出，AI技能已取代网络安全成为企业最想要的技能，超过一半的受访企业计划增加数据技能培训预算。企业自评在数据挖掘上能力最弱，只有40%认为自己“高度胜任”，数据治理被视为快速增长的技能。",
+      "why": "简历和面试中可以突出数据治理、数据管理类经历，这些是AI项目里供给不足的能力。",
+      "source": "CompTIA",
+      "url": "https://www.comptia.org/en/resources/research/rising-demands-for-data-skills-november-2026/"
     }
   ],
-  "action": "用60–90分钟做一个小型数据项目：在FRED下载美国核心PCE同比和联邦基金利率的月度数据，用Python或R画出2020年以来的双轴图，并标出昨天公布的核心PCE 3.3%；再写三句话解释为什么美联储在GDP增速4.3%时仍要加息。把代码和图放到GitHub，可直接用作经济/数据科学岗位的作品集。",
+  "action": "用1小时写一段约2分钟的口述“本周宏观观点”：英央行加息到4%但贝利暗示通胀峰值偏低、ECB换帅、油价反弹，各用一句话说明对英镑、欧元和债券收益率的影响，录音回听一遍，作为金融/咨询面试的“最近关注什么市场新闻”标准答案。",
   "watch": [
     {
-      "date": "12/04",
-      "event": "美国11月非农就业报告（美东时间8:30）"
+      "date": "11/29",
+      "event": "OPEC+开会讨论产量政策（油价近两天大涨后）"
     },
     {
-      "date": "12/09",
-      "event": "美联储12月议息决议及点阵图，市场对加息25个基点的定价约98%"
-    },
-    {
-      "date": "12/14",
-      "event": "二十国集团迈阿密峰会（12/14–15），美方官员称可能在会上敲定更多贸易协议"
+      "date": "11/30",
+      "event": "WHO举办《健康不平等监测图谱》发布网络研讨会，CET 13:00–14:30（伦敦12:00–13:30），可在线报名"
     },
     {
       "date": "12/17",
-      "event": "欧洲央行12月利率决议，首次发布至2029年的经济预测；同日英国央行公布利率决议"
+      "event": "伦敦地铁RMT工会新一轮24小时罢工（12/19再罢工一次），出行和面试要提前安排"
     }
   ]
 }
