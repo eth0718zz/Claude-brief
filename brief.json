@@ -1,111 +1,99 @@
 {
-  "date": "2026-11-27",
-  "weekday": "周五",
-  "updated": "2026-11-27 07:48 伦敦时间",
-  "headline": "欧元区提名德科斯接任拉加德；贝利称英国通胀峰值或低于5%预测；英伟达据报暂停向东南亚四国服务器伙伴发货。",
+  "date": "2026-11-28",
+  "weekday": "周六",
+  "updated": "2026-11-28 07:55 伦敦时间",
+  "headline": "美股黑五收官，标普创19个月最佳单周；英央行警告云巨头AI相关敞口超4万亿美元；SAP拟裁员至少1万人；OPEC+会议与西班牙大选周日登场。",
   "items": [
     {
-      "tag": "经济",
-      "title": "德科斯获提名接任欧洲央行行长",
-      "summary": "欧元区领导人11月26日同意推荐国际清算银行总经理、前西班牙央行行长德科斯接替拉加德，拉加德将于2027年2月7日提前卸任。布恩和布伦纳迈尔同时获提名进入执委会，正式任命预计12月由欧洲理事会完成。欧委会预测欧元区2026年通胀3.2%，存款利率现为2.5%。",
-      "why": "面试被问欧洲宏观时，可以用“新行长+通胀高于目标+执委会大换血”三点说明ECB政策走向的不确定性。",
-      "source": "Xinhua",
-      "url": "https://english.news.cn/europe/20261127/c971fc6341d646478eb8227d3d2fe4fe/c.html"
-    },
-    {
-      "tag": "经济",
-      "title": "贝利：英国通胀峰值可能低于5%",
-      "summary": "英国央行行长贝利对议员表示，如果油价维持当前水平，明年通胀峰值可能低于央行5%的预测。自11月预测以来油价已回落约10%，英央行本月刚把利率上调25个基点至4%。",
-      "why": "这是理解12月17日英央行决议的关键线索：准备一段话说明能源价格如何传导到通胀预期和加息节奏。",
-      "source": "CPA UK Business News",
-      "url": "https://cpa.co.uk/uk-business-news-today-26-november-2026-economy-markets-insolvencies/"
-    },
-    {
-      "tag": "就业",
-      "title": "英国净移民降至7.7万人，近30年最低",
-      "summary": "英国统计局数据显示，截至2026年6月的一年净移民为7.7万人，同比下降62%，为1997年以来（不含疫情）最低，远低于预算责任办公室12万人的预测。期间约73.8万人入境、66.1万人离境。",
-      "why": "劳动力供给收紧会影响英国工资和雇主招聘策略；关注雇主担保类岗位时可把它当作背景，也是英国宏观面试题的好素材。",
-      "source": "ONS（经CPA汇总）",
-      "url": "https://www.ons.gov.uk/releases/longterminternationalmigrationprovisionalyearendingjune2026"
+      "tag": "投资",
+      "title": "黑五半日市：标普创19个月最佳单周",
+      "summary": "11月27日美股提前收盘，标普500涨1.60%至7,297.49点，纳指涨2.31%，道指涨1.18%至50,774.94点，AI和半导体股领涨，美光涨约7.6%，亚马逊借黑五开局数据涨近4%。Anthropic反弹约11%，重回83美元发行价上方；黄金期货大涨3.75%至3,668.50美元。",
+      "why": "一周前芯片股还在暴跌，本周就强力反弹：面试被问“最近市场”时，可以用这一周说明AI主题股的高波动和情绪驱动特征。",
+      "source": "The Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/27/stock-market-today-nov-27-s-and-p-500-posts-best-week-in-19-months-as-ai-stocks-rebound/"
     },
     {
       "tag": "投资",
-      "title": "美股休市日欧股大涨，比特币反弹",
-      "summary": "感恩节美股休市，欧洲斯托克50指数上涨约2.1%，富时100收涨1.46%至10,579点。比特币回升约3.9%至6.05万美元附近，黄金约3,571美元；美股周五仅交易半天。",
-      "why": "可以练习解释“流动性稀薄的节假日行情”为何波动放大、信号意义有限，这是市场类面试的常见追问。",
-      "source": "Hyperdash",
-      "url": "https://hyperdash.com/news/european-stocks-rally-as-us-markets-close-for-thanksgiving-oil-jumps-on-red-sea-strike"
-    },
-    {
-      "tag": "投资",
-      "title": "油价两天涨逾5美元，铜价单月或跌17%",
-      "summary": "受胡塞武装袭击沙特设施影响，布伦特原油两天内上涨超过5美元，OPEC+将于11月29日开会。与此同时铜价在本月有望下跌约17%，美国10年期国债收益率约4.86%。",
-      "why": "油价上涨、铜价下跌同时出现，可以用来说明“供给冲击”和“需求走弱”两种信号怎么区分，是大宗商品面试题的好例子。",
-      "source": "Saxo",
-      "url": "https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---nasdaq-briefly-hits-bear-market-territory-before-paring-losses---26-november-2026-26112026"
-    },
-    {
-      "tag": "AI",
-      "title": "英伟达据报暂停向东南亚四国伙伴发货",
-      "summary": "据报道，英伟达要求服务器合作伙伴暂停向马来西亚、新加坡、泰国和印尼发货；此前有贷款方因美国新出口规则暂停了与中国云厂商相关的融资。穆迪将英伟达评级展望从正面下调至稳定。",
-      "why": "AI算力受地缘政治约束是咨询和投行TMT组的热门话题，可以整理成“出口管制→算力供给→估值”的分析框架。",
-      "source": "The Neuron",
-      "url": "https://theneuron.ai/digest/everything-that-happened-in-ai-today-november-27-2026"
-    },
-    {
-      "tag": "AI",
-      "title": "Anthropic用AI代理把API迁移到Rust",
-      "summary": "Anthropic披露，用Claude代理把Messages API从Python迁移到Rust，代理在真实请求上比对新旧实现并修复差异，全程有人工审核。迁移后单次请求处理器用量降低约70%，首个token的中位响应时间缩短20%。",
-      "why": "说明AI代理已能承担大型工程改造；数据科学求职时，展示“会用AI工具+能验证结果”比单纯会写代码更有说服力。",
-      "source": "The Neuron",
-      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-26-2026/"
+      "title": "OPEC+周日开会，料维持配额至明年",
+      "summary": "OPEC+将于11月29日召开部长级会议，路透和彭博消息称成员国倾向把现行产量目标延续到2027年1月或一季度，现行产量水平12月31日到期。更大的分歧在2027年基准：独立评估认为伊拉克产能不足500万桶/日，巴格达坚称可达520万桶。布伦特10月30日曾近118美元，11月以来回落约两成，11月25日因胡塞武装称袭击拉斯坦努拉炼油厂单日涨3.5%至94.61美元。",
+      "why": "“地缘冲击推高油价、供给过剩压低油价”同时存在，可练习用供需框架讲清油价，大宗商品和能源咨询面试常考。",
+      "source": "Admirals",
+      "url": "https://admiralmarkets.com/analytics/traders-blog/opec-meeting-november-29-2026-preview"
     },
     {
       "tag": "金融",
-      "title": "银行借AI裁员，但收益仍难量化",
-      "summary": "巴克莱预计到2026年底裁员约5,000人，摩根大通称AI让部分部门所需人手减少30%–40%。麦肯锡认为AI相关开支可能达到银行人力成本的20%，但德勤调查显示只有18%的金融机构已从AI获得收入。",
-      "why": "面试银行或咨询时可以引用“成本端见效、收入端未证实”这一矛盾，并把自己定位为能衡量AI投资回报的人。",
-      "source": "AIM Media House",
-      "url": "https://aimmediahouse.com/banking/banks-are-cutting-jobs-for-ai-they-still-cant-prove-its-making-them-money"
+      "title": "英央行：云巨头AI相关敞口超4万亿美元",
+      "summary": "英国央行11月26日发布《金融稳定报告》，估算Alphabet、亚马逊、微软、Meta、甲骨文和SpaceX的债务加上表外承诺（租赁、采购协议、担保等）合计略超4万亿美元。金融政策委员会称AI融资日益复杂、循环且不透明；超大云厂商今年发债有望超过3,050亿美元，约占全球投资级债券发行的8%。",
+      "why": "这是央行层面对“AI泡沫风险”的正式表态，面试银行、信用分析或风险岗位时可以直接引用，并说明合资公司和SPV为何让风险难以追踪。",
+      "source": "StockAnalysis（转述英国央行报告）",
+      "url": "https://stockanalysis.com/news/boe-financial-stability-report-ai-november-2026/"
     },
     {
-      "tag": "全球健康",
-      "title": "WHO首份全球健康不平等监测图谱",
-      "summary": "WHO基于161个成员国自报数据发布首份健康不平等监测能力图谱：89%的国家在卫生战略中承诺解决不平等，但只有65%设有使用不平等数据的部门，只有五分之一在过去十年发布过专门报告。收入、教育、残障等维度的数据明显不足。",
-      "why": "Global Health Management求职的直接素材：数据基础设施和分析能力缺口正是卫生数据分析岗位的需求来源。",
-      "source": "WHO",
-      "url": "https://www.who.int/news/item/24-11-2026-countries-face-critical-gaps-in-health-inequality-monitoring-systems"
-    },
-    {
-      "tag": "国际",
-      "title": "库什纳：俄乌和谈卡在领土问题",
-      "summary": "美国特使库什纳在播客访谈中表示，俄乌谈判已在领土问题上陷入僵局，并称2月至9月双方虽保持接触，但都缺乏实质让步。他否认美方向泽连斯基施压，把美国定位为谈判方和援助方。",
-      "why": "和谈前景直接影响欧洲能源价格和防务股，分析英欧宏观时要把它当作关键变量。",
-      "source": "UNIAN（经Ukraine Today转载）",
-      "url": "https://ukrainetoday.org/kushner-accused-ukraine-of-delaying-negotiations-due-to-attack-on-putins-residence/"
+      "tag": "金融",
+      "title": "大行据报开始转让AI相关贷款",
+      "summary": "据Semafor报道，花旗和摩根大通正在推销AI相关贷款组合，以降低自身敞口；彭博称BBVA考虑转移约5亿欧元数据中心贷款的风险。与此同时，CoreWeave 2031年到期的无担保债券跌至约74美分，收益率约18%。",
+      "why": "银行“发放后转让”是理解信用周期的好例子：准备一段话解释银行为何在风险积聚时出售贷款，以及风险最终流向私募信贷和债券投资者。",
+      "source": "FourWeekMBA（汇总Semafor、彭博）",
+      "url": "https://fourweekmba.com/ai-daily-roundup-26-nov-2026-boe-4-trillion-ai-loans/"
     },
     {
       "tag": "就业",
-      "title": "CompTIA：数据能力成AI落地前提",
-      "summary": "CompTIA 11月研究简报指出，AI技能已取代网络安全成为企业最想要的技能，超过一半的受访企业计划增加数据技能培训预算。企业自评在数据挖掘上能力最弱，只有40%认为自己“高度胜任”，数据治理被视为快速增长的技能。",
-      "why": "简历和面试中可以突出数据治理、数据管理类经历，这些是AI项目里供给不足的能力。",
-      "source": "CompTIA",
-      "url": "https://www.comptia.org/en/resources/research/rising-demands-for-data-skills-november-2026/"
+      "title": "SAP考虑裁员至少1万人推进AI转型",
+      "summary": "彭博11月26日报道，SAP正考虑裁减至少1万个岗位，约占其11万多名员工的9%，产品开发、工程和销售受影响最大，最终人数仍需与员工代表谈判。SAP 2024年已裁员约1万人；公司未直接回应，只说会持续评估组织架构。",
+      "why": "企业软件巨头以AI为由第二次大裁员，说明“AI替代”已从初级岗位扩展到工程和销售；求职时宜突出能用AI提升产出、而非可被AI替代的能力。",
+      "source": "The Decoder（转述彭博）",
+      "url": "https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai"
+    },
+    {
+      "tag": "经济",
+      "title": "下周看点：非农预期9万，欧元区通胀4%",
+      "summary": "12月4日美国公布11月非农，市场预期新增9万人（10月为16.5万），失业率持平于4.1%；12月1日欧元区公布11月通胀快报，10月HICP为4.0%，同日公布美国ISM制造业指数（预期55.2）。市场已完全定价美联储12月9日加息25个基点，理事沃勒还暗示可能加息50个基点。",
+      "why": "在加息周期中，“就业降温但通胀仍高”是滞胀式组合，练习用它解释为什么美联储仍可能加息，宏观类面试题常见。",
+      "source": "Newsquawk",
+      "url": "https://www.newsquawk.com/headlines/week-in-focus-nov-30th-dec-4th-2026-highlights-include-us-nfp-ism-pmis-nvda-hearings-and-the-spanish-election"
+    },
+    {
+      "tag": "国际",
+      "title": "西班牙周日提前大选，右翼联盟领先",
+      "summary": "首相桑切斯在住房立法接连受挫后宣布提前大选，投票于11月29日举行，议会350席，过半需176席。多数民调显示人民党与呼声党合计有望过半，首轮官方计票预计欧洲中部时间21:00左右公布。",
+      "why": "若欧元区第四大经济体政权更替，财政和移民政策都可能转向，可关注西班牙国债利差和银行股反应，作为欧洲政治风险的案例。",
+      "source": "Newsquawk",
+      "url": "https://www.newsquawk.com/headlines/week-in-focus-nov-30th-dec-4th-2026-highlights-include-us-nfp-ism-pmis-nvda-hearings-and-the-spanish-election"
+    },
+    {
+      "tag": "AI",
+      "title": "芯片管制与反蒸馏拖慢中国大模型",
+      "summary": "据路透报道，智谱新一代旗舰模型进度落后，月之暗面预计若失去海外算力，大版本间隔可能从约6个月拉长到一年以上；OpenAI和Anthropic也在加强阻止模型蒸馏。另据彭博，华为预告了对标三星、SK海力士的新一代HBM内存芯片。",
+      "why": "中美AI竞争正从“谁的模型强”转向“谁有算力和数据”，适合在咨询或TMT面试中用作产业链和政策风险的分析案例。",
+      "source": "The Neuron（汇总路透、彭博）",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-27-2026/"
+    },
+    {
+      "tag": "全球健康",
+      "title": "WHO更新埃博拉应对建议，病例破1.2万",
+      "summary": "WHO总干事11月25日在第三次突发事件委员会会议后发布更新的临时建议，确认刚果（金）本迪布焦型埃博拉疫情仍构成国际关注的突发公共卫生事件。截至11月24日已报告超过1.2万例、5,900例死亡，宣布紧急状态以来至少发生94起针对医疗设施的袭击。新建议强调加快疫苗和疗法试验、防止医院内传播、缩短确诊到治疗的时间，并对旅客进行定向筛查而非限制航班。",
+      "why": "可用这个案例说明安全局势、院感控制和研发速度如何共同决定疫情成本，Global Health Management面试谈“疫情应对优先级”时很实用。",
+      "source": "WHO",
+      "url": "https://www.who.int/news/item/27-11-2026-who-issues-updated-ebola-response-recommendations--calling-for-improved-security-and-accelerated-research"
     }
   ],
-  "action": "用1小时写一段约2分钟的口述“本周宏观观点”：英央行加息到4%但贝利暗示通胀峰值偏低、ECB换帅、油价反弹，各用一句话说明对英镑、欧元和债券收益率的影响，录音回听一遍，作为金融/咨询面试的“最近关注什么市场新闻”标准答案。",
+  "action": "花1小时打开英国央行11月《金融稳定报告》的AI章节，画一张“AI融资链”示意图（云巨头发债→表外租赁和SPV→私募信贷→银行转让贷款），再写150字结论：风险集中在哪里、哪些信号值得盯（信用利差、CDS、债券价格）。这既是银行/信用/咨询面试的现成素材，也能练习把政策报告转成结构化观点。",
   "watch": [
     {
       "date": "11/29",
-      "event": "OPEC+开会讨论产量政策（油价近两天大涨后）"
+      "event": "OPEC+部长级会议（讨论2027年配额和产能基准）；西班牙提前大选，欧洲中部时间21:00左右出首轮计票"
     },
     {
-      "date": "11/30",
-      "event": "WHO举办《健康不平等监测图谱》发布网络研讨会，CET 13:00–14:30（伦敦12:00–13:30），可在线报名"
+      "date": "12/01",
+      "event": "欧元区11月通胀快报（10月为4.0%）；美国ISM制造业指数和英国、欧元区制造业PMI"
     },
     {
-      "date": "12/17",
-      "event": "伦敦地铁RMT工会新一轮24小时罢工（12/19再罢工一次），出行和面试要提前安排"
+      "date": "12/04",
+      "event": "美国11月非农就业报告，市场预期新增9万人、失业率4.1%"
+    },
+    {
+      "date": "12/09",
+      "event": "美联储12月议息决议及经济预测，市场已完全定价加息25个基点"
     }
   ]
 }
